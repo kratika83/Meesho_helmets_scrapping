@@ -1,0 +1,2462 @@
+{
+    "enable": false,
+    "catalogs": [
+        {
+            "id": 123355781,
+            "hero_pid": 417863523,
+            "name": "Trendy Makeup Kits",
+            "category_id": 5486,
+            "sub_sub_category_name": "Makeup Kits",
+            "min_catalog_price": 153,
+            "min_product_price": 153,
+            "description": " Unique Face Makeup Combo",
+            "full_details": "Net Quantity (N): 1\nSkin Type: All Skin Types\nType: Cream\nCapacity: 100-200gm\nShade: Combo Of Different Color\nFinish: Matte\n\nDispatch: 2-2 Days",
+            "share_text": "Catalog Name:*Trendy Makeup Kits*\nColor: 15 Fair\nNet Quantity (N): 1\n\nDispatch: 1 Day\n\n*Proof of Safe Delivery! Click to know on Safety Standards of Delivery Partners- https://ltl.sh/y_nZrAV3",
+            "hot": false,
+            "type": "catalog",
+            "pre_booking": false,
+            "priority": 0,
+            "num_suppliers": 0,
+            "num_designs": 1,
+            "image": "https://images.meesho.com/images/catalogs/123355781/cover/1/2/0387c4955595b261186656519fa841b0da7a66d1c044cfa19af930cf64b0fe691f4554e4554bc8e48d337e0447fee9ac6fcd15fb71fd8dc78cc3ee6c0b915722_512.jpg",
+            "collage_image": "https://images.meesho.com/images/catalogs/123355781/collages/1/1/0387c4955595b261186656519fa841b0da7a66d1c044cfa19af930cf64b0fe691f4554e4554bc8e48d337e0447fee9ac6fcd15fb71fd8dc78cc3ee6c0b915722.jpg",
+            "image_aspect_ratio": 1.77,
+            "collage_image_aspect_ratio": 1.48,
+            "created": "2024-06-04 20:06:34",
+            "created_iso": "2024-06-04T20:06:34+0530",
+            "valid": true,
+            "trend": "",
+            "popular": false,
+            "has_mrp": true,
+            "is_added_to_wishlist": false,
+            "assured_details": {
+                "is_assured": false,
+                "message": "Best quality products from trusted suppliers."
+            },
+            "mall_verified": false,
+            "shipping_charges_adjustment": 66,
+            "story_images": [],
+            "catalog_reviews_summary": {
+                "rating_count_map": {
+                    "1": 825,
+                    "2": 368,
+                    "3": 539,
+                    "4": 540,
+                    "5": 2909
+                },
+                "average_rating": 3.8,
+                "absolute_average_rating": 4,
+                "average_rating_str": "3.8",
+                "rating_scale": 5,
+                "review_count": 2007,
+                "rating_count": 5181
+            },
+            "shipping": {
+                "charges": 0,
+                "discount": 0,
+                "show_shipping_charges": false,
+                "show_free_delivery": true
+            },
+            "shipping_2": {
+                "charges": 0,
+                "discount": 0,
+                "show_shipping_charges": false,
+                "show_free_delivery": true
+            },
+            "tags": [
+                {
+                    "name": "NEXT DAY DISPATCH"
+                }
+            ],
+            "app_event_data": {
+                "price_metadata": "eyJydG9DaGFyZ2UiOjAsInJ0b0Rpc2NvdW50IjowLCJzaGlwcGluZ0NoYXJnZSI6MCwiZGVsaXZlcnlGZWVzIjowLCJzaGlwcGluZ0NoYXJnZXNBZGp1c3RtZW50Ijo2Niwiem9uYWxEaXNjb3VudCI6MCwiem9uYWxDaGFyZ2UiOjAsInNlcnZpbmdQcmljZSI6MTUzLCJtYXhEaXNjb3VudFBlcmNlbnRhZ2UiOjAsImludmVudG9yeUNvdW50Ijo2OCwiY29kRGlzY291bnQiOjIxLCJzdXBwbGllclByaWNlIjo4NywiYmZzRGlzY291bnQiOjAsInRheEFyYml0cmFnZUdzdCI6MC4wLCJ0YXhBcmJpdHJhZ2VXaXRob3V0R3N0IjowLjAsInZhbG1vRGlzY291bnQiOjAuMCwiaW5zdHJ1bWVudGF0aW9uT2ZmZXJzIjp7fX0"
+            },
+            "gray_tags": [],
+            "value_prop_tag": {
+                "name": "NEXT DAY DISPATCH"
+            },
+            "has_same_price_products": true,
+            "product_images": [
+                {
+                    "id": 417863523,
+                    "url": "https://images.meesho.com/images/products/417863523/fhulz_512.jpg"
+                }
+            ],
+            "activated": "2024-06-06 12:36:28",
+            "activated_iso": "2024-06-06T12:36:28+0530",
+            "num_shares": "0 Shares",
+            "margin": {
+                "enabled": false
+            },
+            "price_type_id": "premium_return_price",
+            "special_offers": {
+                "display_text": "₹131 with 2 Special Offers",
+                "offers": [
+                    {
+                        "type": "cod_unbundling",
+                        "amount": 21
+                    },
+                    {
+                        "type": "return_options",
+                        "amount": 1
+                    }
+                ]
+            },
+            "consumer_share_text": "Hey, check out this product on Meesho!\r\n\r\nGet upto 25% OFF on your first order. Also grab extra 25% on new products every 3 hours!\r\n\nhttps://www.meesho.com/s/p/6ws9k3?utm_source=s",
+            "product_attributes": [
+                "Concern: No Concern"
+            ],
+            "hero_product_name": "Makeup Special Combo For Women",
+            "high_asp_enabled": false,
+            "gst_type": "GSTIN",
+            "state_code": "HR",
+            "affiliate_commission_text": "",
+            "lc_commission_text": "",
+            "images": [
+                "https://images.meesho.com/images/products/417863523/fhulz_512.jpg"
+            ],
+            "product_id": "6ws9k3",
+            "slug": "makeup-special-combo-for-women",
+            "original_slug": "makeup-special-combo-for-women",
+            "isAdProduct": false,
+            "original_product_id": 417863523,
+            "catalogId": 123355781
+        },
+        {
+            "id": 166172163,
+            "hero_pid": 504802197,
+            "name": " Premium Absolute Concealer",
+            "category_id": 5526,
+            "sub_sub_category_name": "Concealer",
+            "min_catalog_price": 165,
+            "min_product_price": 165,
+            "description": " Premium Absolute Concealer",
+            "full_details": "Finish: Natural\nShade: You're A Natural\nApplicator: Sponge\nAdd On: No Add on\nDispatch: 2-2 Days",
+            "share_text": "Catalog Name:* Premium Absolute Concealer*\nBrand: Others\nFinish: Natural\nShade: Brown\nApplicator: Sponge\nAdd On: No Add on\nDispatch: 1 Day\n\n*Proof of Safe Delivery! Click to know on Safety Standards of Delivery Partners- https://ltl.sh/y_nZrAV3",
+            "hot": false,
+            "type": "catalog",
+            "pre_booking": false,
+            "priority": 0,
+            "num_suppliers": 0,
+            "num_designs": 1,
+            "image": "https://images.meesho.com/images/catalogs/166172163/cover/1/2/c718f757cc2d7660f036229d93f00b35935ed9190c8815b2efbf9ace4db3b508ceef1813e9829d1fdefe2179d2528a3d16646e1f95ee6349d3f96f06dc88d295_512.jpg",
+            "collage_image": "https://images.meesho.com/images/catalogs/166172163/collages/1/1/c718f757cc2d7660f036229d93f00b35935ed9190c8815b2efbf9ace4db3b508ceef1813e9829d1fdefe2179d2528a3d16646e1f95ee6349d3f96f06dc88d295.jpg",
+            "image_aspect_ratio": 1.77,
+            "collage_image_aspect_ratio": 1.48,
+            "created": "2025-03-03 11:11:51",
+            "created_iso": "2025-03-03T11:11:51+0530",
+            "valid": true,
+            "trend": "",
+            "popular": false,
+            "has_mrp": true,
+            "is_added_to_wishlist": false,
+            "assured_details": {
+                "is_assured": false,
+                "message": "Best quality products from trusted suppliers."
+            },
+            "mall_verified": false,
+            "shipping_charges_adjustment": 60,
+            "story_images": [],
+            "catalog_reviews_summary": {
+                "rating_count_map": {
+                    "1": 2,
+                    "2": 0,
+                    "3": 7,
+                    "4": 10,
+                    "5": 20
+                },
+                "average_rating": 4.2,
+                "absolute_average_rating": 5,
+                "average_rating_str": "4.2",
+                "rating_scale": 5,
+                "review_count": 15,
+                "rating_count": 39
+            },
+            "shipping": {
+                "charges": 0,
+                "discount": 0,
+                "show_shipping_charges": false,
+                "show_free_delivery": true
+            },
+            "shipping_2": {
+                "charges": 0,
+                "discount": 0,
+                "show_shipping_charges": false,
+                "show_free_delivery": true
+            },
+            "tags": [
+                {
+                    "name": "NEXT DAY DISPATCH"
+                }
+            ],
+            "app_event_data": {
+                "price_metadata": "eyJydG9DaGFyZ2UiOjAsInJ0b0Rpc2NvdW50IjowLCJzaGlwcGluZ0NoYXJnZSI6MCwiZGVsaXZlcnlGZWVzIjowLCJzaGlwcGluZ0NoYXJnZXNBZGp1c3RtZW50Ijo2MCwiem9uYWxEaXNjb3VudCI6MCwiem9uYWxDaGFyZ2UiOjAsInNlcnZpbmdQcmljZSI6MTY1LCJtYXhEaXNjb3VudFBlcmNlbnRhZ2UiOjAsImludmVudG9yeUNvdW50Ijo5ODUsImNvZERpc2NvdW50IjoxNSwic3VwcGxpZXJQcmljZSI6MTA1LCJiZnNEaXNjb3VudCI6MCwidGF4QXJiaXRyYWdlR3N0IjowLjAsInRheEFyYml0cmFnZVdpdGhvdXRHc3QiOjAuMCwidmFsbW9EaXNjb3VudCI6MC4wLCJpbnN0cnVtZW50YXRpb25PZmZlcnMiOnt9fQ"
+            },
+            "gray_tags": [],
+            "value_prop_tag": {
+                "name": "NEXT DAY DISPATCH"
+            },
+            "ad": {
+                "active": true,
+                "tag": "Ad",
+                "metadata": "8n61O++9rlhlre6Bpv0GxQ=="
+            },
+            "has_same_price_products": true,
+            "product_images": [
+                {
+                    "id": 504802197,
+                    "url": "https://images.meesho.com/images/products/504802197/otkwj_512.jpg"
+                }
+            ],
+            "activated": "2025-03-05 11:19:51",
+            "activated_iso": "2025-03-05T11:19:51+0530",
+            "num_shares": "0 Shares",
+            "margin": {
+                "enabled": false
+            },
+            "price_type_id": "premium_return_price",
+            "special_offers": {
+                "display_text": "₹150 with 1 Special Offer",
+                "offers": [
+                    {
+                        "type": "cod_unbundling",
+                        "amount": 15
+                    }
+                ]
+            },
+            "consumer_share_text": "Hey, check out this product on Meesho!\r\n\r\nGet upto 25% OFF on your first order. Also grab extra 25% on new products every 3 hours!\r\n\nhttps://www.meesho.com/s/p/8cjnv9?utm_source=s",
+            "product_attributes": [
+                "Concern: No Concern"
+            ],
+            "hero_product_name": " multicolour 6shades,  waterproof long lasting concealer plate  with  eyliner  pen ",
+            "high_asp_enabled": false,
+            "gst_type": "GSTIN",
+            "state_code": "HR",
+            "affiliate_commission_text": "10% Commission",
+            "lc_commission_text": "",
+            "images": [
+                "https://images.meesho.com/images/products/504802197/otkwj_512.jpg"
+            ],
+            "product_id": "8cjnv9",
+            "slug": "multicolour-6shades-waterproof-long-lasting-concealer-plate-with-eyliner-pen",
+            "original_slug": "multicolour-6shades-waterproof-long-lasting-concealer-plate-with-eyliner-pen",
+            "isAdProduct": true,
+            "original_product_id": 504802197,
+            "catalogId": 166172163
+        },
+        {
+            "id": 85982109,
+            "hero_pid": 295386257,
+            "name": " Fancy Makeup Combo",
+            "category_id": 5600,
+            "sub_sub_category_name": "Makeup Combo",
+            "min_catalog_price": 241,
+            "min_product_price": 241,
+            "description": " Fancy Makeup Combo",
+            "full_details": "Net Quantity (N): 1\nSkin Type: All Skin Types\nType: Cream\nCapacity: 100-200gm\nFinish: Cream\n\nDispatch: 2-2 Days",
+            "share_text": "Catalog Name:* Fancy Makeup Combo*\nBrand: FROSTED COSMETIC\nColor: Multicolor\nFlavour: No Flavour\nNet Quantity (N): 1\n\nDispatch: 1 Day\n\n*Proof of Safe Delivery! Click to know on Safety Standards of Delivery Partners- https://ltl.sh/y_nZrAV3",
+            "hot": false,
+            "type": "catalog",
+            "pre_booking": false,
+            "priority": 0,
+            "num_suppliers": 0,
+            "num_designs": 1,
+            "image": "https://images.meesho.com/images/catalogs/85982109/cover/1/2/12dfb1d86f86dff209f400ab27778a58afc4f6b64a3da6aab56b13a30948ca1b79b70eb41ce4d5bc97b44f319318fb266db3499c24dccda47b67db02ab44c9b6_512.jpg",
+            "collage_image": "https://images.meesho.com/images/catalogs/85982109/collages/1/1/12dfb1d86f86dff209f400ab27778a58afc4f6b64a3da6aab56b13a30948ca1b79b70eb41ce4d5bc97b44f319318fb266db3499c24dccda47b67db02ab44c9b6.jpg",
+            "image_aspect_ratio": 1.77,
+            "collage_image_aspect_ratio": 1.48,
+            "created": "2023-06-08 17:30:50",
+            "created_iso": "2023-06-08T17:30:50+0530",
+            "valid": true,
+            "trend": "",
+            "popular": false,
+            "has_mrp": true,
+            "is_added_to_wishlist": false,
+            "assured_details": {
+                "is_assured": false,
+                "message": "Best quality products from trusted suppliers."
+            },
+            "mall_verified": false,
+            "shipping_charges_adjustment": 66,
+            "story_images": [],
+            "catalog_reviews_summary": {
+                "rating_count_map": {
+                    "1": 1214,
+                    "2": 565,
+                    "3": 1124,
+                    "4": 1436,
+                    "5": 4105
+                },
+                "average_rating": 3.8,
+                "absolute_average_rating": 4,
+                "average_rating_str": "3.8",
+                "rating_scale": 5,
+                "review_count": 2483,
+                "rating_count": 8444
+            },
+            "shipping": {
+                "charges": 0,
+                "discount": 0,
+                "show_shipping_charges": false,
+                "show_free_delivery": true
+            },
+            "shipping_2": {
+                "charges": 0,
+                "discount": 0,
+                "show_shipping_charges": false,
+                "show_free_delivery": true
+            },
+            "tags": [
+                {
+                    "name": "NEXT DAY DISPATCH"
+                }
+            ],
+            "app_event_data": {
+                "price_metadata": "eyJydG9DaGFyZ2UiOjAsInJ0b0Rpc2NvdW50IjowLCJzaGlwcGluZ0NoYXJnZSI6MCwiZGVsaXZlcnlGZWVzIjowLCJzaGlwcGluZ0NoYXJnZXNBZGp1c3RtZW50Ijo2Niwiem9uYWxEaXNjb3VudCI6MCwiem9uYWxDaGFyZ2UiOjAsInNlcnZpbmdQcmljZSI6MjQxLCJtYXhEaXNjb3VudFBlcmNlbnRhZ2UiOjAsImludmVudG9yeUNvdW50IjozNDY0LCJjb2REaXNjb3VudCI6MjEsInN1cHBsaWVyUHJpY2UiOjE3NSwiYmZzRGlzY291bnQiOjAsInRheEFyYml0cmFnZUdzdCI6MC4wLCJ0YXhBcmJpdHJhZ2VXaXRob3V0R3N0IjowLjAsInZhbG1vRGlzY291bnQiOjAuMCwiaW5zdHJ1bWVudGF0aW9uT2ZmZXJzIjp7fX0"
+            },
+            "gray_tags": [],
+            "value_prop_tag": {
+                "name": "NEXT DAY DISPATCH"
+            },
+            "has_same_price_products": true,
+            "product_images": [
+                {
+                    "id": 295386257,
+                    "url": "https://images.meesho.com/images/products/295386257/25agt_512.jpg"
+                }
+            ],
+            "activated": "2023-06-09 02:18:16",
+            "activated_iso": "2023-06-09T02:18:16+0530",
+            "num_shares": "0 Shares",
+            "margin": {
+                "enabled": false
+            },
+            "price_type_id": "premium_return_price",
+            "special_offers": {
+                "display_text": "₹217 with 2 Special Offers",
+                "offers": [
+                    {
+                        "type": "cod_unbundling",
+                        "amount": 21
+                    },
+                    {
+                        "type": "return_options",
+                        "amount": 3
+                    }
+                ]
+            },
+            "consumer_share_text": "Hey, check out this product on Meesho!\r\n\r\nGet upto 25% OFF on your first order. Also grab extra 25% on new products every 3 hours!\r\n\nhttps://www.meesho.com/s/p/4vv5ht?utm_source=s",
+            "product_attributes": [
+                "Concern: No Concern"
+            ],
+            "hero_product_name": "TYA 502, hello kitty , Mascarra,2Sponge ",
+            "high_asp_enabled": false,
+            "gst_type": "GSTIN",
+            "state_code": "HR",
+            "affiliate_commission_text": "10% Commission",
+            "lc_commission_text": "",
+            "images": [
+                "https://images.meesho.com/images/products/295386257/25agt_512.jpg"
+            ],
+            "product_id": "4vv5ht",
+            "slug": "tya-502-hello-kitty-mascarra2sponge",
+            "original_slug": "tya-502-hello-kitty-mascarra2sponge",
+            "isAdProduct": false,
+            "original_product_id": 295386257,
+            "catalogId": 85982109
+        },
+        {
+            "id": 114248262,
+            "hero_pid": 391433456,
+            "name": " Classic Face Makeup Combo",
+            "category_id": 5623,
+            "sub_sub_category_name": "Face Makeup Combo",
+            "min_catalog_price": 390,
+            "min_product_price": 390,
+            "description": " Classic Face Makeup Combo",
+            "full_details": "Net Quantity (N): 12\nSkin Type: All Skin Types\nType: Cream\nCapacity: 100-200gm\nFinish: Creme\n\nDispatch: 2-2 Days",
+            "share_text": "Catalog Name:* Classic Face Makeup Combo*\nNet Quantity (N): 12\nSkin Type: All Skin Types\nType: Cream\nCapacity: 100-200gm\nShade: Rosegold\nFinish: Creme\n\nDispatch: 2 Days\n\n*Proof of Safe Delivery! Click to know on Safety Standards of Delivery Partners- https://ltl.sh/y_nZrAV3",
+            "hot": false,
+            "type": "catalog",
+            "pre_booking": false,
+            "priority": 0,
+            "num_suppliers": 0,
+            "num_designs": 1,
+            "image": "https://images.meesho.com/images/catalogs/114248262/cover/1/2/9b114e1f3dbec448eb5a4e92238062de3b5dde0eeff13a11c909a8af40f198ed2e5d20da7ca0b6c276db9ff6280f05f62a8ba8be6970155ee9d5634e6ad11e9f_512.jpg",
+            "collage_image": "https://images.meesho.com/images/catalogs/114248262/collages/1/1/9b114e1f3dbec448eb5a4e92238062de3b5dde0eeff13a11c909a8af40f198ed2e5d20da7ca0b6c276db9ff6280f05f62a8ba8be6970155ee9d5634e6ad11e9f.jpg",
+            "image_aspect_ratio": 1.77,
+            "collage_image_aspect_ratio": 1.48,
+            "created": "2024-02-20 23:05:33",
+            "created_iso": "2024-02-20T23:05:33+0530",
+            "valid": true,
+            "trend": "",
+            "popular": false,
+            "has_mrp": true,
+            "is_added_to_wishlist": false,
+            "assured_details": {
+                "is_assured": false,
+                "message": "Best quality products from trusted suppliers."
+            },
+            "mall_verified": false,
+            "shipping_charges_adjustment": 88,
+            "story_images": [],
+            "catalog_reviews_summary": {
+                "rating_count_map": {
+                    "1": 17,
+                    "2": 4,
+                    "3": 11,
+                    "4": 16,
+                    "5": 42
+                },
+                "average_rating": 3.7,
+                "absolute_average_rating": 4,
+                "average_rating_str": "3.7",
+                "rating_scale": 5,
+                "review_count": 26,
+                "rating_count": 90
+            },
+            "shipping": {
+                "charges": 0,
+                "discount": 0,
+                "show_shipping_charges": false,
+                "show_free_delivery": true
+            },
+            "shipping_2": {
+                "charges": 0,
+                "discount": 0,
+                "show_shipping_charges": false,
+                "show_free_delivery": true
+            },
+            "tags": [],
+            "app_event_data": {
+                "price_metadata": "eyJydG9DaGFyZ2UiOjAsInJ0b0Rpc2NvdW50IjowLCJzaGlwcGluZ0NoYXJnZSI6MCwiZGVsaXZlcnlGZWVzIjowLCJzaGlwcGluZ0NoYXJnZXNBZGp1c3RtZW50Ijo4OCwiem9uYWxEaXNjb3VudCI6MCwiem9uYWxDaGFyZ2UiOjAsInNlcnZpbmdQcmljZSI6MzkwLCJtYXhEaXNjb3VudFBlcmNlbnRhZ2UiOjAsImludmVudG9yeUNvdW50Ijo4OTk5NiwiY29kRGlzY291bnQiOjI2LCJzdXBwbGllclByaWNlIjozMDIsImJmc0Rpc2NvdW50IjowLCJ0YXhBcmJpdHJhZ2VHc3QiOjAuMCwidGF4QXJiaXRyYWdlV2l0aG91dEdzdCI6MC4wLCJ2YWxtb0Rpc2NvdW50IjowLjAsImluc3RydW1lbnRhdGlvbk9mZmVycyI6e319"
+            },
+            "gray_tags": [],
+            "has_same_price_products": true,
+            "product_images": [
+                {
+                    "id": 391433456,
+                    "url": "https://images.meesho.com/images/products/391433456/y0fsf_512.jpg"
+                }
+            ],
+            "activated": "2024-03-29 10:30:11",
+            "activated_iso": "2024-03-29T10:30:11+0530",
+            "num_shares": "0 Shares",
+            "margin": {
+                "enabled": false
+            },
+            "price_type_id": "premium_return_price",
+            "special_offers": {
+                "display_text": "₹355 with 2 Special Offers",
+                "offers": [
+                    {
+                        "type": "cod_unbundling",
+                        "amount": 26
+                    },
+                    {
+                        "type": "return_options",
+                        "amount": 9
+                    }
+                ]
+            },
+            "consumer_share_text": "Hey, check out this product on Meesho!\r\n\r\nGet upto 25% OFF on your first order. Also grab extra 25% on new products every 3 hours!\r\n\nhttps://www.meesho.com/s/p/6h1rzk?utm_source=s",
+            "product_attributes": [
+                "Skin type: All Skin Types"
+            ],
+            "hero_product_name": "Professional Waterproof Makeup Combo KIt Full Set With All Products For All Types Of Skin For Girls & Women Eyeshdow Rose Gold",
+            "high_asp_enabled": false,
+            "gst_type": "GSTIN",
+            "state_code": "HR",
+            "affiliate_commission_text": "",
+            "lc_commission_text": "",
+            "images": [
+                "https://images.meesho.com/images/products/391433456/y0fsf_512.jpg"
+            ],
+            "product_id": "6h1rzk",
+            "slug": "professional-waterproof-makeup-combo-kit-full-set-with-all-products-for-all-types-of-skin-for-girls-women-eyeshdow-rose-gold",
+            "original_slug": "professional-waterproof-makeup-combo-kit-full-set-with-all-products-for-all-types-of-skin-for-girls-women-eyeshdow-rose-gold",
+            "isAdProduct": false,
+            "original_product_id": 391433456,
+            "catalogId": 114248262
+        },
+        {
+            "id": 96325211,
+            "hero_pid": 331455773,
+            "name": " New Makeup Combo",
+            "category_id": 5600,
+            "sub_sub_category_name": "Makeup Combo",
+            "min_catalog_price": 397,
+            "min_product_price": 397,
+            "description": " New Makeup Combo",
+            "full_details": "Net Quantity (N): Variable (Product Dependent)\nSkin Type: All Skin Types\nType: Cream\nCapacity: 100-200gm\nFinish: Variable (Product Dependent)\n\nDispatch: 2-2 Days",
+            "share_text": "Catalog Name:* New Makeup Combo*\nFlavour: Fruits\nNet Quantity (N): 22\nSkin Type: All Skin Types\nType: Cream\nCapacity: 100-200gm\nShade: Beige Girl\nFinish: Natural\n\nDispatch: 2 Days\n\n*Proof of Safe Delivery! Click to know on Safety Standards of Delivery Partners- https://ltl.sh/y_nZrAV3",
+            "hot": false,
+            "type": "catalog",
+            "pre_booking": false,
+            "priority": 0,
+            "num_suppliers": 0,
+            "num_designs": 2,
+            "image": "https://images.meesho.com/images/catalogs/96325211/cover/1/2/8cefd9c8844f86564f93c10d80ebe7116441f2afbd05997b4266090d98fb9e822aeef72ece8f34d6ada17684a2db583d9529348692ed73da1710623edbbab557_512.jpg",
+            "collage_image": "https://images.meesho.com/images/catalogs/96325211/collages/1/1/8cefd9c8844f86564f93c10d80ebe7116441f2afbd05997b4266090d98fb9e822aeef72ece8f34d6ada17684a2db583d9529348692ed73da1710623edbbab557.jpg",
+            "image_aspect_ratio": 1.77,
+            "collage_image_aspect_ratio": 1.48,
+            "created": "2023-09-01 18:12:42",
+            "created_iso": "2023-09-01T18:12:42+0530",
+            "valid": true,
+            "trend": "",
+            "popular": false,
+            "has_mrp": true,
+            "is_added_to_wishlist": false,
+            "assured_details": {
+                "is_assured": false,
+                "message": "Best quality products from trusted suppliers."
+            },
+            "mall_verified": false,
+            "shipping_charges_adjustment": 86,
+            "story_images": [],
+            "catalog_reviews_summary": {
+                "rating_count_map": {
+                    "1": 165,
+                    "2": 73,
+                    "3": 123,
+                    "4": 179,
+                    "5": 605
+                },
+                "average_rating": 3.9,
+                "absolute_average_rating": 4,
+                "average_rating_str": "3.9",
+                "rating_scale": 5,
+                "review_count": 373,
+                "rating_count": 1145
+            },
+            "shipping": {
+                "charges": 0,
+                "discount": 0,
+                "show_shipping_charges": false,
+                "show_free_delivery": true
+            },
+            "shipping_2": {
+                "charges": 0,
+                "discount": 0,
+                "show_shipping_charges": false,
+                "show_free_delivery": true
+            },
+            "tags": [],
+            "app_event_data": {
+                "price_metadata": "eyJydG9DaGFyZ2UiOjAsInJ0b0Rpc2NvdW50IjowLCJzaGlwcGluZ0NoYXJnZSI6MCwiZGVsaXZlcnlGZWVzIjowLCJzaGlwcGluZ0NoYXJnZXNBZGp1c3RtZW50Ijo4Niwiem9uYWxEaXNjb3VudCI6MCwiem9uYWxDaGFyZ2UiOjAsInNlcnZpbmdQcmljZSI6Mzk3LCJtYXhEaXNjb3VudFBlcmNlbnRhZ2UiOjAsImludmVudG9yeUNvdW50Ijo4OTkzOCwiY29kRGlzY291bnQiOjI2LCJzdXBwbGllclByaWNlIjozMTEsImJmc0Rpc2NvdW50IjowLCJ0YXhBcmJpdHJhZ2VHc3QiOjAuMCwidGF4QXJiaXRyYWdlV2l0aG91dEdzdCI6MC4wLCJ2YWxtb0Rpc2NvdW50IjowLjAsImluc3RydW1lbnRhdGlvbk9mZmVycyI6e319"
+            },
+            "gray_tags": [],
+            "has_same_price_products": true,
+            "product_images": [
+                {
+                    "id": 331455773,
+                    "url": "https://images.meesho.com/images/products/331455773/mjfok_512.jpg"
+                },
+                {
+                    "id": 331455774,
+                    "url": "https://images.meesho.com/images/products/331455774/ktco2_512.jpg"
+                }
+            ],
+            "activated": "2023-09-02 00:20:14",
+            "activated_iso": "2023-09-02T00:20:14+0530",
+            "num_shares": "0 Shares",
+            "margin": {
+                "enabled": false
+            },
+            "price_type_id": "premium_return_price",
+            "special_offers": {
+                "display_text": "₹362 with 2 Special Offers",
+                "offers": [
+                    {
+                        "type": "cod_unbundling",
+                        "amount": 26
+                    },
+                    {
+                        "type": "return_options",
+                        "amount": 9
+                    }
+                ]
+            },
+            "consumer_share_text": "Hey, check out this product on Meesho!\r\n\r\nGet upto 25% OFF on your first order. Also grab extra 25% on new products every 3 hours!\r\n\nhttps://www.meesho.com/s/p/5hc8wt?utm_source=s",
+            "product_attributes": [
+                "Skin type: All Skin Types"
+            ],
+            "hero_product_name": "C",
+            "high_asp_enabled": false,
+            "gst_type": "GSTIN",
+            "state_code": "HR",
+            "affiliate_commission_text": "",
+            "lc_commission_text": "",
+            "images": [
+                "https://images.meesho.com/images/products/331455773/mjfok_512.jpg"
+            ],
+            "product_id": "5hc8wt",
+            "slug": "c",
+            "original_slug": "c",
+            "isAdProduct": false,
+            "original_product_id": 331455773,
+            "catalogId": 96325211
+        },
+        {
+            "id": 164120137,
+            "hero_pid": 501240154,
+            "name": " Proffesional Infinite Concealer",
+            "category_id": 5526,
+            "sub_sub_category_name": "Concealer",
+            "min_catalog_price": 162,
+            "min_product_price": 162,
+            "description": " Proffesional Infinite Concealer",
+            "full_details": "Finish: Natural\nShade: 10 Light\nApplicator: Sponge\nAdd On: No Add on\nDispatch: 2-2 Days",
+            "share_text": "Catalog Name:* Proffesional Infinite Concealer*\nBrand: Others\nFinish: Natural\nShade: 10 Light\nApplicator: Sponge\nAdd On: No Add on\nDispatch: 1 Day\n\n*Proof of Safe Delivery! Click to know on Safety Standards of Delivery Partners- https://ltl.sh/y_nZrAV3",
+            "hot": false,
+            "type": "catalog",
+            "pre_booking": false,
+            "priority": 0,
+            "num_suppliers": 0,
+            "num_designs": 1,
+            "image": "https://images.meesho.com/images/catalogs/164120137/cover/1/2/e81d37746408949e1ad886827830f855417bb34a195494d1337d04c7fc822c1d0bde72089ca35947ea3ede54ebb1f5c8b1cef638e7131fd5c907a8d37fc79001_512.jpg",
+            "collage_image": "https://images.meesho.com/images/catalogs/164120137/collages/1/1/e81d37746408949e1ad886827830f855417bb34a195494d1337d04c7fc822c1d0bde72089ca35947ea3ede54ebb1f5c8b1cef638e7131fd5c907a8d37fc79001.jpg",
+            "image_aspect_ratio": 1.77,
+            "collage_image_aspect_ratio": 1.48,
+            "created": "2025-02-24 22:11:26",
+            "created_iso": "2025-02-24T22:11:26+0530",
+            "valid": true,
+            "trend": "",
+            "popular": false,
+            "has_mrp": true,
+            "is_added_to_wishlist": false,
+            "assured_details": {
+                "is_assured": false,
+                "message": "Best quality products from trusted suppliers."
+            },
+            "mall_verified": false,
+            "shipping_charges_adjustment": 64,
+            "story_images": [],
+            "catalog_reviews_summary": {
+                "rating_count_map": {
+                    "1": 42,
+                    "2": 24,
+                    "3": 61,
+                    "4": 63,
+                    "5": 106
+                },
+                "average_rating": 3.6,
+                "absolute_average_rating": 4,
+                "average_rating_str": "3.6",
+                "rating_scale": 5,
+                "review_count": 121,
+                "rating_count": 296
+            },
+            "shipping": {
+                "charges": 0,
+                "discount": 0,
+                "show_shipping_charges": false,
+                "show_free_delivery": true
+            },
+            "shipping_2": {
+                "charges": 0,
+                "discount": 0,
+                "show_shipping_charges": false,
+                "show_free_delivery": true
+            },
+            "tags": [
+                {
+                    "name": "NEXT DAY DISPATCH"
+                }
+            ],
+            "app_event_data": {
+                "price_metadata": "eyJydG9DaGFyZ2UiOjAsInJ0b0Rpc2NvdW50IjowLCJzaGlwcGluZ0NoYXJnZSI6MCwiZGVsaXZlcnlGZWVzIjowLCJzaGlwcGluZ0NoYXJnZXNBZGp1c3RtZW50Ijo2NCwiem9uYWxEaXNjb3VudCI6MCwiem9uYWxDaGFyZ2UiOjAsInNlcnZpbmdQcmljZSI6MTYyLCJtYXhEaXNjb3VudFBlcmNlbnRhZ2UiOjAsImludmVudG9yeUNvdW50Ijo5NzcsImNvZERpc2NvdW50IjoxNiwic3VwcGxpZXJQcmljZSI6OTgsImJmc0Rpc2NvdW50IjowLCJ0YXhBcmJpdHJhZ2VHc3QiOjAuMCwidGF4QXJiaXRyYWdlV2l0aG91dEdzdCI6MC4wLCJ2YWxtb0Rpc2NvdW50IjowLjAsImluc3RydW1lbnRhdGlvbk9mZmVycyI6e319"
+            },
+            "gray_tags": [],
+            "value_prop_tag": {
+                "name": "NEXT DAY DISPATCH"
+            },
+            "ad": {
+                "active": true,
+                "tag": "Ad",
+                "metadata": "xG9W3rpbuEqReOt5febF1A=="
+            },
+            "has_same_price_products": true,
+            "product_images": [
+                {
+                    "id": 501240154,
+                    "url": "https://images.meesho.com/images/products/501240154/pubhp_512.jpg"
+                }
+            ],
+            "activated": "2025-02-26 11:32:15",
+            "activated_iso": "2025-02-26T11:32:15+0530",
+            "num_shares": "0 Shares",
+            "margin": {
+                "enabled": false
+            },
+            "price_type_id": "premium_return_price",
+            "special_offers": {
+                "display_text": "₹145 with 2 Special Offers",
+                "offers": [
+                    {
+                        "type": "cod_unbundling",
+                        "amount": 16
+                    },
+                    {
+                        "type": "return_options",
+                        "amount": 1
+                    }
+                ]
+            },
+            "consumer_share_text": "Hey, check out this product on Meesho!\r\n\r\nGet upto 25% OFF on your first order. Also grab extra 25% on new products every 3 hours!\r\n\nhttps://www.meesho.com/s/p/8afbdm?utm_source=s",
+            "product_attributes": [
+                "Concern: No Concern"
+            ],
+            "hero_product_name": "Concealer plate of 6 clours , for makeup ,waterproof  , long lasting  high quality",
+            "high_asp_enabled": false,
+            "gst_type": "GSTIN",
+            "state_code": "HR",
+            "affiliate_commission_text": "10% Commission",
+            "lc_commission_text": "",
+            "images": [
+                "https://images.meesho.com/images/products/501240154/pubhp_512.jpg"
+            ],
+            "product_id": "8afbdm",
+            "slug": "concealer-plate-of-6-clours-for-makeup-waterproof-long-lasting-high-quality",
+            "original_slug": "concealer-plate-of-6-clours-for-makeup-waterproof-long-lasting-high-quality",
+            "isAdProduct": true,
+            "original_product_id": 501240154,
+            "catalogId": 164120137
+        },
+        {
+            "id": 77602286,
+            "hero_pid": 262393169,
+            "name": " Unique Makeup Combo",
+            "category_id": 5600,
+            "sub_sub_category_name": "Makeup Combo",
+            "min_catalog_price": 179,
+            "min_product_price": 179,
+            "description": " Unique Makeup Combo",
+            "full_details": "Net Quantity (N): 10\nSkin Type: All Skin Types\nType: Cream\nCapacity: 100-200gm\nFinish: Cream\n\nDispatch: 2-2 Days",
+            "share_text": "Catalog Name:* Unique Makeup Combo*\nFlavour: No Flavour\nNet Quantity (N): 10\nSkin Type: All Skin Types\nType: Cream\nCapacity: 100-200gm\nShade: Combo Of Different Color\nFinish: Cream\n\nDispatch: 1 Day\n\n*Proof of Safe Delivery! Click to know on Safety Standards of Delivery Partners- https://ltl.sh/y_nZrAV3",
+            "hot": false,
+            "type": "catalog",
+            "pre_booking": false,
+            "priority": 0,
+            "num_suppliers": 0,
+            "num_designs": 1,
+            "image": "https://images.meesho.com/images/catalogs/77602286/cover/1/2/9bd460f21917639eae2030df6ff970e902a42b1b2aa254ec85754429d4ab90a3699d3a4bc9c1f644f9375dae64f07e08f36917ee397fb77cf2ba6fa122650867_512.jpg",
+            "collage_image": "https://images.meesho.com/images/catalogs/77602286/collages/1/1/9bd460f21917639eae2030df6ff970e902a42b1b2aa254ec85754429d4ab90a3699d3a4bc9c1f644f9375dae64f07e08f36917ee397fb77cf2ba6fa122650867.jpg",
+            "image_aspect_ratio": 1.77,
+            "collage_image_aspect_ratio": 1.48,
+            "created": "2023-04-01 00:31:18",
+            "created_iso": "2023-04-01T00:31:18+0530",
+            "valid": true,
+            "trend": "",
+            "popular": false,
+            "has_mrp": true,
+            "is_added_to_wishlist": false,
+            "assured_details": {
+                "is_assured": false,
+                "message": "Best quality products from trusted suppliers."
+            },
+            "mall_verified": false,
+            "shipping_charges_adjustment": 64,
+            "story_images": [],
+            "catalog_reviews_summary": {
+                "rating_count_map": {
+                    "1": 5,
+                    "2": 3,
+                    "3": 5,
+                    "4": 5,
+                    "5": 21
+                },
+                "average_rating": 3.9,
+                "absolute_average_rating": 4,
+                "average_rating_str": "3.9",
+                "rating_scale": 5,
+                "review_count": 14,
+                "rating_count": 39
+            },
+            "shipping": {
+                "charges": 0,
+                "discount": 0,
+                "show_shipping_charges": false,
+                "show_free_delivery": true
+            },
+            "shipping_2": {
+                "charges": 0,
+                "discount": 0,
+                "show_shipping_charges": false,
+                "show_free_delivery": true
+            },
+            "tags": [
+                {
+                    "name": "NEXT DAY DISPATCH"
+                }
+            ],
+            "app_event_data": {
+                "price_metadata": "eyJydG9DaGFyZ2UiOjAsInJ0b0Rpc2NvdW50IjowLCJzaGlwcGluZ0NoYXJnZSI6MCwiZGVsaXZlcnlGZWVzIjowLCJzaGlwcGluZ0NoYXJnZXNBZGp1c3RtZW50Ijo2NCwiem9uYWxEaXNjb3VudCI6MCwiem9uYWxDaGFyZ2UiOjAsInNlcnZpbmdQcmljZSI6MTc5LCJtYXhEaXNjb3VudFBlcmNlbnRhZ2UiOjAsImludmVudG9yeUNvdW50IjozMjcsImNvZERpc2NvdW50IjoxOSwic3VwcGxpZXJQcmljZSI6MTE1LCJiZnNEaXNjb3VudCI6MCwidGF4QXJiaXRyYWdlR3N0IjowLjAsInRheEFyYml0cmFnZVdpdGhvdXRHc3QiOjAuMCwidmFsbW9EaXNjb3VudCI6MC4wLCJpbnN0cnVtZW50YXRpb25PZmZlcnMiOnt9fQ"
+            },
+            "gray_tags": [],
+            "value_prop_tag": {
+                "name": "NEXT DAY DISPATCH"
+            },
+            "has_same_price_products": true,
+            "product_images": [
+                {
+                    "id": 262393169,
+                    "url": "https://images.meesho.com/images/products/262393169/rmazo_512.jpg"
+                }
+            ],
+            "activated": "2023-04-01 16:18:47",
+            "activated_iso": "2023-04-01T16:18:47+0530",
+            "num_shares": "0 Shares",
+            "margin": {
+                "enabled": false
+            },
+            "price_type_id": "premium_return_price",
+            "special_offers": {
+                "display_text": "₹154 with 2 Special Offers",
+                "offers": [
+                    {
+                        "type": "cod_unbundling",
+                        "amount": 19
+                    },
+                    {
+                        "type": "return_options",
+                        "amount": 6
+                    }
+                ]
+            },
+            "consumer_share_text": "Hey, check out this product on Meesho!\r\n\r\nGet upto 25% OFF on your first order. Also grab extra 25% on new products every 3 hours!\r\n\nhttps://www.meesho.com/s/p/4c7zv5?utm_source=s",
+            "product_attributes": [
+                "Concern: No Concern",
+                "Skin type: All Skin Types"
+            ],
+            "hero_product_name": "Makeup Kits Combo",
+            "high_asp_enabled": false,
+            "gst_type": "GSTIN",
+            "state_code": "HR",
+            "affiliate_commission_text": "",
+            "lc_commission_text": "",
+            "images": [
+                "https://images.meesho.com/images/products/262393169/rmazo_512.jpg"
+            ],
+            "product_id": "4c7zv5",
+            "slug": "makeup-kits-combo",
+            "original_slug": "makeup-kits-combo",
+            "isAdProduct": false,
+            "original_product_id": 262393169,
+            "catalogId": 77602286
+        },
+        {
+            "id": 150133599,
+            "hero_pid": 477878619,
+            "name": "Makeup Combo",
+            "category_id": 5600,
+            "sub_sub_category_name": "Makeup Combo",
+            "min_catalog_price": 194,
+            "min_product_price": 194,
+            "description": " Useful Face Makeup Combo",
+            "full_details": "Net Quantity (N): 9\nSkin Type: All Skin Types\nType: Mousse\nCapacity: 100-200gm\nShade: 15 Fair\nFinish: Matte\n\nDispatch: 2-2 Days",
+            "share_text": "Catalog Name:*Makeup Combo*\nNet Quantity (N): 9\nSkin Type: All Skin Types\nType: Mousse\nCapacity: 100-200gm\nShade: 15 Fair\nFinish: Matte\n\nDispatch: 2 Days\n\n*Proof of Safe Delivery! Click to know on Safety Standards of Delivery Partners- https://ltl.sh/y_nZrAV3",
+            "hot": false,
+            "type": "catalog",
+            "pre_booking": false,
+            "priority": 0,
+            "num_suppliers": 0,
+            "num_designs": 1,
+            "image": "https://images.meesho.com/images/catalogs/150133599/cover/1/2/82c35736b79ea19761b92ba1467c0b2365e5b93cb6bcae50570f09d21e181f4adcddd8d15587e8aeb3e006262514633b3cd1df9911fafa8b638aaabd50a83bb2_512.jpg",
+            "collage_image": "https://images.meesho.com/images/catalogs/150133599/collages/1/1/82c35736b79ea19761b92ba1467c0b2365e5b93cb6bcae50570f09d21e181f4adcddd8d15587e8aeb3e006262514633b3cd1df9911fafa8b638aaabd50a83bb2.jpg",
+            "image_aspect_ratio": 1.77,
+            "collage_image_aspect_ratio": 1.48,
+            "created": "2025-01-13 15:49:10",
+            "created_iso": "2025-01-13T15:49:10+0530",
+            "valid": true,
+            "trend": "",
+            "popular": false,
+            "has_mrp": true,
+            "is_added_to_wishlist": false,
+            "assured_details": {
+                "is_assured": false,
+                "message": "Best quality products from trusted suppliers."
+            },
+            "mall_verified": false,
+            "shipping_charges_adjustment": 64,
+            "story_images": [],
+            "catalog_reviews_summary": {
+                "rating_count_map": {
+                    "1": 25,
+                    "2": 11,
+                    "3": 24,
+                    "4": 25,
+                    "5": 93
+                },
+                "average_rating": 3.8,
+                "absolute_average_rating": 4,
+                "average_rating_str": "3.8",
+                "rating_scale": 5,
+                "review_count": 35,
+                "rating_count": 178
+            },
+            "shipping": {
+                "charges": 0,
+                "discount": 0,
+                "show_shipping_charges": false,
+                "show_free_delivery": true
+            },
+            "shipping_2": {
+                "charges": 0,
+                "discount": 0,
+                "show_shipping_charges": false,
+                "show_free_delivery": true
+            },
+            "tags": [],
+            "app_event_data": {
+                "price_metadata": "eyJydG9DaGFyZ2UiOjAsInJ0b0Rpc2NvdW50IjowLCJzaGlwcGluZ0NoYXJnZSI6MCwiZGVsaXZlcnlGZWVzIjowLCJzaGlwcGluZ0NoYXJnZXNBZGp1c3RtZW50Ijo2NCwiem9uYWxEaXNjb3VudCI6MCwiem9uYWxDaGFyZ2UiOjAsInNlcnZpbmdQcmljZSI6MTk0LCJtYXhEaXNjb3VudFBlcmNlbnRhZ2UiOjAsImludmVudG9yeUNvdW50Ijo3MjcsImNvZERpc2NvdW50IjoxOSwic3VwcGxpZXJQcmljZSI6MTMwLCJiZnNEaXNjb3VudCI6MCwidGF4QXJiaXRyYWdlR3N0IjowLjAsInRheEFyYml0cmFnZVdpdGhvdXRHc3QiOjAuMCwidmFsbW9EaXNjb3VudCI6MC4wLCJpbnN0cnVtZW50YXRpb25PZmZlcnMiOnt9fQ"
+            },
+            "gray_tags": [],
+            "has_same_price_products": true,
+            "product_images": [
+                {
+                    "id": 477878619,
+                    "url": "https://images.meesho.com/images/products/477878619/0nvli_512.jpg"
+                }
+            ],
+            "activated": "2025-01-16 11:16:59",
+            "activated_iso": "2025-01-16T11:16:59+0530",
+            "num_shares": "0 Shares",
+            "margin": {
+                "enabled": false
+            },
+            "price_type_id": "premium_return_price",
+            "special_offers": {
+                "display_text": "₹175 with 1 Special Offer",
+                "offers": [
+                    {
+                        "type": "cod_unbundling",
+                        "amount": 19
+                    }
+                ]
+            },
+            "consumer_share_text": "Hey, check out this product on Meesho!\r\n\r\nGet upto 25% OFF on your first order. Also grab extra 25% on new products every 3 hours!\r\n\nhttps://www.meesho.com/s/p/7wili3?utm_source=s",
+            "product_attributes": [
+                "Concern: No Concern",
+                "Skin type: All Skin Types"
+            ],
+            "hero_product_name": "face makeup combo",
+            "high_asp_enabled": false,
+            "gst_type": "GSTIN",
+            "state_code": "HR",
+            "affiliate_commission_text": "",
+            "lc_commission_text": "",
+            "images": [
+                "https://images.meesho.com/images/products/477878619/0nvli_512.jpg"
+            ],
+            "product_id": "7wili3",
+            "slug": "face-makeup-combo",
+            "original_slug": "face-makeup-combo",
+            "isAdProduct": false,
+            "original_product_id": 477878619,
+            "catalogId": 150133599
+        },
+        {
+            "id": 92181025,
+            "hero_pid": 316590238,
+            "name": " Everyday Makeup Combo",
+            "category_id": 5600,
+            "sub_sub_category_name": "Makeup Combo",
+            "min_catalog_price": 175,
+            "min_product_price": 175,
+            "description": " Everyday Makeup Combo",
+            "full_details": "Brand: Others\nFlavour: No Flavour\nNet Quantity (N): 11\nSkin Type: All Skin Types\nType: Liquid\nCapacity: 100-200gm\nShade: Natural\nFinish: Matte\n\nDispatch: 2-2 Days",
+            "share_text": "Catalog Name:* Everyday Makeup Combo*\nBrand: Others\nBrand: Others\nFlavour: No Flavour\nNet Quantity (N): 11\nSkin Type: All Skin Types\nType: Liquid\nCapacity: 100-200gm\nShade: Combo Of Different Color\nFinish: Matte\n\nDispatch: 1 Day\n\n*Proof of Safe Delivery! Click to know on Safety Standards of Delivery Partners- https://ltl.sh/y_nZrAV3",
+            "hot": false,
+            "type": "catalog",
+            "pre_booking": false,
+            "priority": 0,
+            "num_suppliers": 0,
+            "num_designs": 1,
+            "image": "https://images.meesho.com/images/catalogs/92181025/cover/1/2/a9fb8fdbd3a542e8143b1736752ae4c0dcc844bdc345c6c62f3069537f7a2b59d8ab8954fe3ea55b64d23572d6307f7c0fd5c4a8f71d8811283ffbdd95fab14f_512.jpg",
+            "collage_image": "https://images.meesho.com/images/catalogs/92181025/collages/1/1/a9fb8fdbd3a542e8143b1736752ae4c0dcc844bdc345c6c62f3069537f7a2b59d8ab8954fe3ea55b64d23572d6307f7c0fd5c4a8f71d8811283ffbdd95fab14f.jpg",
+            "image_aspect_ratio": 1.77,
+            "collage_image_aspect_ratio": 1.48,
+            "created": "2023-07-29 13:31:44",
+            "created_iso": "2023-07-29T13:31:44+0530",
+            "valid": true,
+            "trend": "",
+            "popular": false,
+            "has_mrp": true,
+            "is_added_to_wishlist": false,
+            "assured_details": {
+                "is_assured": false,
+                "message": "Best quality products from trusted suppliers."
+            },
+            "mall_verified": false,
+            "shipping_charges_adjustment": 64,
+            "story_images": [],
+            "catalog_reviews_summary": {
+                "rating_count_map": {
+                    "1": 1849,
+                    "2": 812,
+                    "3": 1693,
+                    "4": 2284,
+                    "5": 7031
+                },
+                "average_rating": 3.9,
+                "absolute_average_rating": 4,
+                "average_rating_str": "3.9",
+                "rating_scale": 5,
+                "review_count": 4249,
+                "rating_count": 13669
+            },
+            "shipping": {
+                "charges": 0,
+                "discount": 0,
+                "show_shipping_charges": false,
+                "show_free_delivery": true
+            },
+            "shipping_2": {
+                "charges": 0,
+                "discount": 0,
+                "show_shipping_charges": false,
+                "show_free_delivery": true
+            },
+            "tags": [
+                {
+                    "name": "NEXT DAY DISPATCH"
+                }
+            ],
+            "app_event_data": {
+                "price_metadata": "eyJydG9DaGFyZ2UiOjAsInJ0b0Rpc2NvdW50IjowLCJzaGlwcGluZ0NoYXJnZSI6MCwiZGVsaXZlcnlGZWVzIjowLCJzaGlwcGluZ0NoYXJnZXNBZGp1c3RtZW50Ijo2NCwiem9uYWxEaXNjb3VudCI6MCwiem9uYWxDaGFyZ2UiOjAsInNlcnZpbmdQcmljZSI6MTc1LCJtYXhEaXNjb3VudFBlcmNlbnRhZ2UiOjAsImludmVudG9yeUNvdW50IjoyNiwiY29kRGlzY291bnQiOjE5LCJzdXBwbGllclByaWNlIjoxMTEsImJmc0Rpc2NvdW50IjowLCJ0YXhBcmJpdHJhZ2VHc3QiOjAuMCwidGF4QXJiaXRyYWdlV2l0aG91dEdzdCI6MC4wLCJ2YWxtb0Rpc2NvdW50IjowLjAsImluc3RydW1lbnRhdGlvbk9mZmVycyI6e319"
+            },
+            "gray_tags": [],
+            "value_prop_tag": {
+                "name": "NEXT DAY DISPATCH"
+            },
+            "has_same_price_products": true,
+            "product_images": [
+                {
+                    "id": 316590238,
+                    "url": "https://images.meesho.com/images/products/316590238/r2xwl_512.jpg"
+                }
+            ],
+            "activated": "2023-07-29 20:19:01",
+            "activated_iso": "2023-07-29T20:19:01+0530",
+            "num_shares": "0 Shares",
+            "margin": {
+                "enabled": false
+            },
+            "price_type_id": "premium_return_price",
+            "special_offers": {
+                "display_text": "₹156 with 1 Special Offer",
+                "offers": [
+                    {
+                        "type": "cod_unbundling",
+                        "amount": 19
+                    }
+                ]
+            },
+            "consumer_share_text": "Hey, check out this product on Meesho!\r\n\r\nGet upto 25% OFF on your first order. Also grab extra 25% on new products every 3 hours!\r\n\nhttps://www.meesho.com/s/p/58hmla?utm_source=s",
+            "product_attributes": [
+                "Concern: No Concern",
+                "Skin type: All Skin Types"
+            ],
+            "hero_product_name": "face makeup combo 12, eye, lip and face makeup combo kit for best results that satisfies you 100% . Instaglow and shine kit pack of 12. Suitable for all skin types ( Natural Finish)",
+            "high_asp_enabled": false,
+            "gst_type": "GSTIN",
+            "state_code": "HR",
+            "affiliate_commission_text": "",
+            "lc_commission_text": "",
+            "images": [
+                "https://images.meesho.com/images/products/316590238/r2xwl_512.jpg"
+            ],
+            "product_id": "58hmla",
+            "slug": "face-makeup-combo-12-eye-lip-and-face-makeup-combo-kit-for-best-results-that-satisfies-you-100-instaglow-and-shine-kit-pack-of-12-suitable-for-all-skin-types-natural-finish",
+            "original_slug": "face-makeup-combo-12-eye-lip-and-face-makeup-combo-kit-for-best-results-that-satisfies-you-100-instaglow-and-shine-kit-pack-of-12-suitable-for-all-skin-types-natural-finish",
+            "isAdProduct": false,
+            "original_product_id": 316590238,
+            "catalogId": 92181025
+        },
+        {
+            "id": 19785561,
+            "hero_pid": 72122226,
+            "name": " Sensational Ultimate Makeup Kits",
+            "category_id": 5486,
+            "sub_sub_category_name": "Makeup Kits",
+            "min_catalog_price": 236,
+            "min_product_price": 236,
+            "description": " Sensational Ultimate Makeup Kits",
+            "full_details": "Color: Multicolor\nMultipack: 1\nDispatch: 2-3 Days",
+            "share_text": "Catalog Name:* Sensational Ultimate Makeup Kits*\nBrand: Others\nColor: Multicolor\nFlavour: No Flavour\nNet Quantity (N): 1\n\nDispatch: 1 Day\n\n*Proof of Safe Delivery! Click to know on Safety Standards of Delivery Partners- https://ltl.sh/y_nZrAV3",
+            "hot": false,
+            "type": "catalog",
+            "pre_booking": false,
+            "priority": 0,
+            "num_suppliers": 0,
+            "num_designs": 1,
+            "image": "https://images.meesho.com/images/catalogs/19785561/cover/1/2/99130926277b06cc7ebf494af0a0d6c5f44374282bfe626b496fb3c15737e105bce79ac6c10da60491a626c76eac59e3fb8d86fbb19c2f4edc0d6c4c6a4718de_512.jpg",
+            "collage_image": "https://images.meesho.com/images/catalogs/19785561/collages/1/1/99130926277b06cc7ebf494af0a0d6c5f44374282bfe626b496fb3c15737e105bce79ac6c10da60491a626c76eac59e3fb8d86fbb19c2f4edc0d6c4c6a4718de.jpg",
+            "image_aspect_ratio": 1.77,
+            "collage_image_aspect_ratio": 1.48,
+            "created": "2022-01-16 08:45:47",
+            "created_iso": "2022-01-16T08:45:47+0530",
+            "valid": true,
+            "trend": "",
+            "popular": false,
+            "has_mrp": true,
+            "is_added_to_wishlist": false,
+            "assured_details": {
+                "is_assured": false,
+                "message": "Best quality products from trusted suppliers."
+            },
+            "mall_verified": false,
+            "shipping_charges_adjustment": 66,
+            "story_images": [],
+            "catalog_reviews_summary": {
+                "rating_count_map": {
+                    "1": 358,
+                    "2": 155,
+                    "3": 335,
+                    "4": 614,
+                    "5": 1786
+                },
+                "average_rating": 4,
+                "absolute_average_rating": 5,
+                "average_rating_str": "4.0",
+                "rating_scale": 5,
+                "review_count": 1058,
+                "rating_count": 3248
+            },
+            "shipping": {
+                "charges": 0,
+                "discount": 0,
+                "show_shipping_charges": false,
+                "show_free_delivery": true
+            },
+            "shipping_2": {
+                "charges": 0,
+                "discount": 0,
+                "show_shipping_charges": false,
+                "show_free_delivery": true
+            },
+            "tags": [
+                {
+                    "name": "NEXT DAY DISPATCH"
+                }
+            ],
+            "app_event_data": {
+                "price_metadata": "eyJydG9DaGFyZ2UiOjAsInJ0b0Rpc2NvdW50IjowLCJzaGlwcGluZ0NoYXJnZSI6MCwiZGVsaXZlcnlGZWVzIjowLCJzaGlwcGluZ0NoYXJnZXNBZGp1c3RtZW50Ijo2Niwiem9uYWxEaXNjb3VudCI6MCwiem9uYWxDaGFyZ2UiOjAsInNlcnZpbmdQcmljZSI6MjM2LCJtYXhEaXNjb3VudFBlcmNlbnRhZ2UiOjAsImludmVudG9yeUNvdW50Ijo4MzU5LCJjb2REaXNjb3VudCI6MjEsInN1cHBsaWVyUHJpY2UiOjE3MCwiYmZzRGlzY291bnQiOjAsInRheEFyYml0cmFnZUdzdCI6MC4wLCJ0YXhBcmJpdHJhZ2VXaXRob3V0R3N0IjowLjAsInZhbG1vRGlzY291bnQiOjAuMCwiaW5zdHJ1bWVudGF0aW9uT2ZmZXJzIjp7fX0"
+            },
+            "gray_tags": [],
+            "value_prop_tag": {
+                "name": "NEXT DAY DISPATCH"
+            },
+            "ad": {
+                "active": true,
+                "tag": "Ad",
+                "metadata": "9+3eyDCwMKfR5CBJn+xbew=="
+            },
+            "has_same_price_products": true,
+            "product_images": [
+                {
+                    "id": 72122226,
+                    "url": "https://images.meesho.com/images/products/72122226/aevpf_512.jpg"
+                }
+            ],
+            "activated": "2022-01-16 14:10:56",
+            "activated_iso": "2022-01-16T14:10:56+0530",
+            "num_shares": "0 Shares",
+            "margin": {
+                "enabled": false
+            },
+            "price_type_id": "premium_return_price",
+            "special_offers": {
+                "display_text": "₹206 with 2 Special Offers",
+                "offers": [
+                    {
+                        "type": "cod_unbundling",
+                        "amount": 21
+                    },
+                    {
+                        "type": "return_options",
+                        "amount": 9
+                    }
+                ]
+            },
+            "consumer_share_text": "Hey, check out this product on Meesho!\r\n\r\nGet upto 25% OFF on your first order. Also grab extra 25% on new products every 3 hours!\r\n\nhttps://www.meesho.com/s/p/16xtv6?utm_source=s",
+            "product_attributes": [
+                "Concern: No Concern"
+            ],
+            "hero_product_name": "Hello kitty Makeup Brushes +Make up Kit 6155  (2 Items in the set)",
+            "high_asp_enabled": false,
+            "gst_type": "GSTIN",
+            "state_code": "HR",
+            "affiliate_commission_text": "",
+            "lc_commission_text": "",
+            "images": [
+                "https://images.meesho.com/images/products/72122226/aevpf_512.jpg"
+            ],
+            "product_id": "16xtv6",
+            "slug": "hello-kitty-makeup-brushes-make-up-kit-6155-2-items-in-the-set",
+            "original_slug": "hello-kitty-makeup-brushes-make-up-kit-6155-2-items-in-the-set",
+            "isAdProduct": true,
+            "original_product_id": 72122226,
+            "catalogId": 19785561
+        },
+        {
+            "id": 117808274,
+            "hero_pid": 401677662,
+            "name": "Trendy New Makeup Kits",
+            "category_id": 5486,
+            "sub_sub_category_name": "Makeup Kits",
+            "min_catalog_price": 194,
+            "min_product_price": 194,
+            "description": " Fancy Eye Makeup Combo",
+            "full_details": "Brand: Tya\nFlavour: Unflavoured\nNet Quantity (N): 1\nType: Mousse\nCapacity: 100-200gm\nShade: Combo Of Different Color\nFinish: Matte\n\nDispatch: 2-2 Days",
+            "share_text": "Catalog Name:*Trendy New Makeup Kits*\nColor: Combo Of Different Color\nFlavour: No Flavour\nNet Quantity (N): 3\n\nDispatch: 2 Days\n\n*Proof of Safe Delivery! Click to know on Safety Standards of Delivery Partners- https://ltl.sh/y_nZrAV3",
+            "hot": false,
+            "type": "catalog",
+            "pre_booking": false,
+            "priority": 0,
+            "num_suppliers": 0,
+            "num_designs": 1,
+            "image": "https://images.meesho.com/images/catalogs/117808274/cover/1/2/cca88d13bad1f512e76efa6c2f8abf793c28a5d35e29f37c993235c6c62f5d300b472ad2ddaa2d850e75cb291e0155d3cc6a4f622781611c2ad00f510813e130_512.jpg",
+            "collage_image": "https://images.meesho.com/images/catalogs/117808274/collages/1/1/cca88d13bad1f512e76efa6c2f8abf793c28a5d35e29f37c993235c6c62f5d300b472ad2ddaa2d850e75cb291e0155d3cc6a4f622781611c2ad00f510813e130.jpg",
+            "image_aspect_ratio": 1.77,
+            "collage_image_aspect_ratio": 1.48,
+            "created": "2024-04-01 13:39:41",
+            "created_iso": "2024-04-01T13:39:41+0530",
+            "valid": true,
+            "trend": "",
+            "popular": false,
+            "has_mrp": true,
+            "is_added_to_wishlist": false,
+            "assured_details": {
+                "is_assured": false,
+                "message": "Best quality products from trusted suppliers."
+            },
+            "mall_verified": false,
+            "shipping_charges_adjustment": 66,
+            "story_images": [],
+            "catalog_reviews_summary": {
+                "rating_count_map": {
+                    "1": 47,
+                    "2": 17,
+                    "3": 38,
+                    "4": 68,
+                    "5": 191
+                },
+                "average_rating": 3.9,
+                "absolute_average_rating": 4,
+                "average_rating_str": "3.9",
+                "rating_scale": 5,
+                "review_count": 87,
+                "rating_count": 361
+            },
+            "shipping": {
+                "charges": 0,
+                "discount": 0,
+                "show_shipping_charges": false,
+                "show_free_delivery": true
+            },
+            "shipping_2": {
+                "charges": 0,
+                "discount": 0,
+                "show_shipping_charges": false,
+                "show_free_delivery": true
+            },
+            "tags": [],
+            "app_event_data": {
+                "price_metadata": "eyJydG9DaGFyZ2UiOjAsInJ0b0Rpc2NvdW50IjowLCJzaGlwcGluZ0NoYXJnZSI6MCwiZGVsaXZlcnlGZWVzIjowLCJzaGlwcGluZ0NoYXJnZXNBZGp1c3RtZW50Ijo2Niwiem9uYWxEaXNjb3VudCI6MCwiem9uYWxDaGFyZ2UiOjAsInNlcnZpbmdQcmljZSI6MTk0LCJtYXhEaXNjb3VudFBlcmNlbnRhZ2UiOjAsImludmVudG9yeUNvdW50IjoyNywiY29kRGlzY291bnQiOjIxLCJzdXBwbGllclByaWNlIjoxMjgsImJmc0Rpc2NvdW50IjowLCJ0YXhBcmJpdHJhZ2VHc3QiOjAuMCwidGF4QXJiaXRyYWdlV2l0aG91dEdzdCI6MC4wLCJ2YWxtb0Rpc2NvdW50IjowLjAsImluc3RydW1lbnRhdGlvbk9mZmVycyI6e319"
+            },
+            "gray_tags": [],
+            "has_same_price_products": true,
+            "product_images": [
+                {
+                    "id": 401677662,
+                    "url": "https://images.meesho.com/images/products/401677662/upmcu_512.jpg"
+                }
+            ],
+            "activated": "2024-04-03 09:58:52",
+            "activated_iso": "2024-04-03T09:58:52+0530",
+            "num_shares": "0 Shares",
+            "margin": {
+                "enabled": false
+            },
+            "price_type_id": "premium_return_price",
+            "special_offers": {
+                "display_text": "₹170 with 2 Special Offers",
+                "offers": [
+                    {
+                        "type": "cod_unbundling",
+                        "amount": 21
+                    },
+                    {
+                        "type": "return_options",
+                        "amount": 3
+                    }
+                ]
+            },
+            "consumer_share_text": "Hey, check out this product on Meesho!\r\n\r\nGet upto 25% OFF on your first order. Also grab extra 25% on new products every 3 hours!\r\n\nhttps://www.meesho.com/s/p/6n5cgu?utm_source=s",
+            "product_attributes": [
+                "Concern: No Concern"
+            ],
+            "hero_product_name": "TYA 5024 5 PC BRUSH OR H 36 LINER PANSIL ( PACK OF 1 )",
+            "high_asp_enabled": false,
+            "gst_type": "GSTIN",
+            "state_code": "HR",
+            "affiliate_commission_text": "",
+            "lc_commission_text": "",
+            "images": [
+                "https://images.meesho.com/images/products/401677662/upmcu_512.jpg"
+            ],
+            "product_id": "6n5cgu",
+            "slug": "tya-5024-5-pc-brush-or-h-36-liner-pansil-pack-of-1",
+            "original_slug": "tya-5024-5-pc-brush-or-h-36-liner-pansil-pack-of-1",
+            "isAdProduct": false,
+            "original_product_id": 401677662,
+            "catalogId": 117808274
+        },
+        {
+            "id": 133350477,
+            "hero_pid": 443444900,
+            "name": " Classic Makeup Combo",
+            "category_id": 5600,
+            "sub_sub_category_name": "Makeup Combo",
+            "min_catalog_price": 136,
+            "min_product_price": 136,
+            "max_product_discount": 9,
+            "original_price": 149,
+            "description": " Classic Makeup Combo",
+            "full_details": "Net Quantity (N): 6\nSkin Type: All Skin Types\nType: Mousse\nCapacity: 100-200gm\nShade: 10 Light\nFinish: Long Wearing & Transfer Resistant\n\nDispatch: 2-2 Days",
+            "share_text": "Catalog Name:* Classic Makeup Combo*\nNet Quantity (N): 6\nSkin Type: All Skin Types\nType: Mousse\nCapacity: 100-200gm\nShade: 10 Light\nFinish: Long Wearing & Transfer Resistant\n\nDispatch: 2 Days\n\n*Proof of Safe Delivery! Click to know on Safety Standards of Delivery Partners- https://ltl.sh/y_nZrAV3",
+            "hot": false,
+            "type": "catalog",
+            "pre_booking": false,
+            "priority": 0,
+            "num_suppliers": 0,
+            "num_designs": 1,
+            "image": "https://images.meesho.com/images/catalogs/133350477/cover/1/2/c8b3ab1b2fce941059e5f48c1a96ed8af7f5c5110bc353a130a64a434aea8690f97831d9092d934fa00ea04ff468780ff5a22ae19829a391870330a4bd740572_512.jpg",
+            "collage_image": "https://images.meesho.com/images/catalogs/133350477/collages/1/1/c8b3ab1b2fce941059e5f48c1a96ed8af7f5c5110bc353a130a64a434aea8690f97831d9092d934fa00ea04ff468780ff5a22ae19829a391870330a4bd740572.jpg",
+            "image_aspect_ratio": 1.77,
+            "collage_image_aspect_ratio": 1.48,
+            "created": "2024-09-15 22:19:33",
+            "created_iso": "2024-09-15T22:19:33+0530",
+            "valid": true,
+            "trend": "",
+            "popular": false,
+            "has_mrp": true,
+            "is_added_to_wishlist": false,
+            "assured_details": {
+                "is_assured": true,
+                "message": "Best quality products from trusted suppliers."
+            },
+            "mall_verified": false,
+            "shipping_charges_adjustment": 64,
+            "story_images": [],
+            "catalog_reviews_summary": {
+                "rating_count_map": {
+                    "1": 150,
+                    "2": 74,
+                    "3": 153,
+                    "4": 203,
+                    "5": 659
+                },
+                "average_rating": 3.9,
+                "absolute_average_rating": 4,
+                "average_rating_str": "3.9",
+                "rating_scale": 5,
+                "review_count": 519,
+                "rating_count": 1239
+            },
+            "shipping": {
+                "charges": 0,
+                "discount": 0,
+                "show_shipping_charges": false,
+                "show_free_delivery": true
+            },
+            "shipping_2": {
+                "charges": 0,
+                "discount": 0,
+                "show_shipping_charges": false,
+                "show_free_delivery": true
+            },
+            "tags": [],
+            "app_event_data": {
+                "price_metadata": "eyJydG9DaGFyZ2UiOjAsInJ0b0Rpc2NvdW50IjowLCJzaGlwcGluZ0NoYXJnZSI6MCwiZGVsaXZlcnlGZWVzIjowLCJzaGlwcGluZ0NoYXJnZXNBZGp1c3RtZW50Ijo2NCwiem9uYWxEaXNjb3VudCI6MCwiem9uYWxDaGFyZ2UiOjAsInN0cmlrZU9mZlByaWNlIjoxNDksInNlcnZpbmdQcmljZSI6MTM2LCJtYXhEaXNjb3VudFBlcmNlbnRhZ2UiOjksImludmVudG9yeUNvdW50Ijo4ODcwOCwiY29kRGlzY291bnQiOjE5LCJzdXBwbGllclByaWNlIjo3OSwiYmZzRGlzY291bnQiOjAsInRheEFyYml0cmFnZUdzdCI6MC4wLCJ0YXhBcmJpdHJhZ2VXaXRob3V0R3N0IjowLjAsInZhbG1vRGlzY291bnQiOjAuMCwiaW5zdHJ1bWVudGF0aW9uT2ZmZXJzIjp7InN1cHBsaWVyT2ZmZXJzIjpbeyJkaXNjb3VudCI6Nywib2ZmZXJJZCI6IjMyYjAwZDkzLTc4YzItNGZjZC1hNWRjLTMzOTM4NmQwY2RiNiIsIm9mZmVyTmFtZSI6Ik1lZXNobyBEYWlseSBEZWFscyJ9XX19"
+            },
+            "gray_tags": [],
+            "deal": {
+                "id": 0,
+                "bg_color": "#F64976",
+                "logo_text": "Deal",
+                "name": "",
+                "start_time": 1743064200,
+                "end_time": 1743074999,
+                "server_time": 1743067803,
+                "icon_image": "https://images.meesho.com/images/marketing/1657272929894.png",
+                "text_color": "#F64976",
+                "deal_price": {
+                    "price": 136,
+                    "transient_price": 136,
+                    "shipping": {
+                        "charges": 0,
+                        "show_shipping_charges": false,
+                        "show_free_delivery": true
+                    },
+                    "shipping_2": {
+                        "charges": 0,
+                        "show_shipping_charges": false,
+                        "show_free_delivery": true
+                    },
+                    "discount": {
+                        "type": "percent",
+                        "amount": 9
+                    },
+                    "original_price": 149
+                },
+                "original_price": {
+                    "price": 143,
+                    "transient_price": 143,
+                    "shipping": {
+                        "charges": 0,
+                        "show_shipping_charges": false,
+                        "show_free_delivery": true
+                    },
+                    "shipping_2": {
+                        "charges": 0,
+                        "show_shipping_charges": false,
+                        "show_free_delivery": true
+                    }
+                }
+            },
+            "has_same_price_products": true,
+            "product_images": [
+                {
+                    "id": 443444900,
+                    "url": "https://images.meesho.com/images/products/443444900/b087z_512.jpg"
+                }
+            ],
+            "activated": "2024-09-17 22:22:36",
+            "activated_iso": "2024-09-17T22:22:36+0530",
+            "num_shares": "0 Shares",
+            "margin": {
+                "enabled": false
+            },
+            "price_type_id": "premium_return_price",
+            "special_offers": {
+                "display_text": "₹105 with 2 Special Offers",
+                "offers": [
+                    {
+                        "type": "cod_unbundling",
+                        "amount": 19
+                    },
+                    {
+                        "type": "return_options",
+                        "amount": 12
+                    }
+                ]
+            },
+            "consumer_share_text": "Hey, check out this product on Meesho!\r\n\r\nGet upto 25% OFF on your first order. Also grab extra 25% on new products every 3 hours!\r\n\nhttps://www.meesho.com/s/p/7c0k9w?utm_source=s",
+            "product_attributes": [
+                "Skin type: All Skin Types"
+            ],
+            "hero_product_name": "Waterproof matte foundation with Compact & lipstick combo",
+            "high_asp_enabled": false,
+            "gst_type": "GSTIN",
+            "state_code": "HR",
+            "affiliate_commission_text": "",
+            "lc_commission_text": "",
+            "images": [
+                "https://images.meesho.com/images/products/443444900/b087z_512.jpg"
+            ],
+            "product_id": "7c0k9w",
+            "slug": "waterproof-matte-foundation-with-compact-lipstick-combo",
+            "original_slug": "waterproof-matte-foundation-with-compact-lipstick-combo",
+            "isAdProduct": false,
+            "original_product_id": 443444900,
+            "catalogId": 133350477
+        },
+        {
+            "id": 42991102,
+            "hero_pid": 144241223,
+            "name": "Classy Makeup Kits",
+            "category_id": 5486,
+            "sub_sub_category_name": "Makeup Kits",
+            "min_catalog_price": 156,
+            "min_product_price": 156,
+            "description": "Classy Makeup Kits",
+            "full_details": "Color: Multicolor\nNet Quantity (N): 1\n\nDispatch: 2-2 Days",
+            "share_text": "Catalog Name:*Classy Makeup Kits*\nBrand: FITBYTE\nColor: Multicolor\nFlavour: No Flavour\nNet Quantity (N): 1\n\nDispatch: 2 Days\n\n*Proof of Safe Delivery! Click to know on Safety Standards of Delivery Partners- https://ltl.sh/y_nZrAV3",
+            "hot": false,
+            "type": "catalog",
+            "pre_booking": false,
+            "priority": 0,
+            "num_suppliers": 0,
+            "num_designs": 1,
+            "image": "https://images.meesho.com/images/catalogs/42991102/cover/1/2/7864678cf27d9a69faa31cebd9745a0912f60f62b11c6c8b437615ba084dae78761b9e5b05be80a2d95e039127e2509c2a9e57e07f0773918e2f8779255a44e7_512.jpg",
+            "collage_image": "https://images.meesho.com/images/catalogs/42991102/collages/1/1/7864678cf27d9a69faa31cebd9745a0912f60f62b11c6c8b437615ba084dae78761b9e5b05be80a2d95e039127e2509c2a9e57e07f0773918e2f8779255a44e7.jpg",
+            "image_aspect_ratio": 1.77,
+            "collage_image_aspect_ratio": 1.48,
+            "created": "2022-07-24 16:45:06",
+            "created_iso": "2022-07-24T16:45:06+0530",
+            "valid": true,
+            "trend": "",
+            "popular": false,
+            "has_mrp": true,
+            "is_added_to_wishlist": false,
+            "assured_details": {
+                "is_assured": false,
+                "message": "Best quality products from trusted suppliers."
+            },
+            "mall_verified": false,
+            "shipping_charges_adjustment": 66,
+            "story_images": [],
+            "catalog_reviews_summary": {
+                "rating_count_map": {
+                    "1": 223,
+                    "2": 92,
+                    "3": 300,
+                    "4": 460,
+                    "5": 1065
+                },
+                "average_rating": 4,
+                "absolute_average_rating": 5,
+                "average_rating_str": "4.0",
+                "rating_scale": 5,
+                "review_count": 533,
+                "rating_count": 2140
+            },
+            "shipping": {
+                "charges": 0,
+                "discount": 0,
+                "show_shipping_charges": false,
+                "show_free_delivery": true
+            },
+            "shipping_2": {
+                "charges": 0,
+                "discount": 0,
+                "show_shipping_charges": false,
+                "show_free_delivery": true
+            },
+            "tags": [],
+            "app_event_data": {
+                "price_metadata": "eyJydG9DaGFyZ2UiOjAsInJ0b0Rpc2NvdW50IjowLCJzaGlwcGluZ0NoYXJnZSI6MCwiZGVsaXZlcnlGZWVzIjowLCJzaGlwcGluZ0NoYXJnZXNBZGp1c3RtZW50Ijo2Niwiem9uYWxEaXNjb3VudCI6MCwiem9uYWxDaGFyZ2UiOjAsInNlcnZpbmdQcmljZSI6MTU2LCJtYXhEaXNjb3VudFBlcmNlbnRhZ2UiOjAsImludmVudG9yeUNvdW50IjozMTE5LCJjb2REaXNjb3VudCI6MjEsInN1cHBsaWVyUHJpY2UiOjkwLCJiZnNEaXNjb3VudCI6MCwidGF4QXJiaXRyYWdlR3N0IjowLjAsInRheEFyYml0cmFnZVdpdGhvdXRHc3QiOjAuMCwidmFsbW9EaXNjb3VudCI6MC4wLCJpbnN0cnVtZW50YXRpb25PZmZlcnMiOnt9fQ"
+            },
+            "gray_tags": [],
+            "has_same_price_products": true,
+            "product_images": [
+                {
+                    "id": 144241223,
+                    "url": "https://images.meesho.com/images/products/144241223/4jsc8_512.jpg"
+                }
+            ],
+            "activated": "2022-07-24 22:11:24",
+            "activated_iso": "2022-07-24T22:11:24+0530",
+            "num_shares": "0 Shares",
+            "margin": {
+                "enabled": false
+            },
+            "price_type_id": "premium_return_price",
+            "special_offers": {
+                "display_text": "₹134 with 2 Special Offers",
+                "offers": [
+                    {
+                        "type": "cod_unbundling",
+                        "amount": 21
+                    },
+                    {
+                        "type": "return_options",
+                        "amount": 1
+                    }
+                ]
+            },
+            "consumer_share_text": "Hey, check out this product on Meesho!\r\n\r\nGet upto 25% OFF on your first order. Also grab extra 25% on new products every 3 hours!\r\n\nhttps://www.meesho.com/s/p/2dvl8n?utm_source=s",
+            "product_attributes": [
+                "Concern: No Concern"
+            ],
+            "hero_product_name": "FITBYTE MINI MAKE UP KIT 5002",
+            "high_asp_enabled": false,
+            "gst_type": "GSTIN",
+            "state_code": "HR",
+            "affiliate_commission_text": "",
+            "lc_commission_text": "",
+            "images": [
+                "https://images.meesho.com/images/products/144241223/4jsc8_512.jpg"
+            ],
+            "product_id": "2dvl8n",
+            "slug": "fitbyte-mini-make-up-kit-5002",
+            "original_slug": "fitbyte-mini-make-up-kit-5002",
+            "isAdProduct": false,
+            "original_product_id": 144241223,
+            "catalogId": 42991102
+        },
+        {
+            "id": 141850162,
+            "hero_pid": 461351909,
+            "name": "Classic XEYMAK Makeup Kits",
+            "category_id": 5486,
+            "sub_sub_category_name": "Makeup Kits",
+            "min_catalog_price": 278,
+            "min_product_price": 278,
+            "description": "Classic XEYMAK Makeup Kits",
+            "full_details": "Brand: XEYMAK\nColor: Multicolor\nFlavour: No Flavour\nNet Quantity (N): 17\n\nDispatch: 2-2 Days",
+            "share_text": "Catalog Name:*Classic XEYMAK Makeup Kits*\nBrand: XEYMAK\nColor: Multicolor\nFlavour: No Flavour\nNet Quantity (N): 17\n\nDispatch: 1 Day\n\n*Proof of Safe Delivery! Click to know on Safety Standards of Delivery Partners- https://ltl.sh/y_nZrAV3",
+            "hot": false,
+            "type": "catalog",
+            "pre_booking": false,
+            "priority": 0,
+            "num_suppliers": 0,
+            "num_designs": 4,
+            "image": "https://images.meesho.com/images/catalogs/141850162/cover/1/2/2589bfa25f01a0d92ea8f61cbb9019c68269c38d0289b071fe6943c14d0039b1a7dec722d6aabfe94d3d418ceee522cc8197787bca325152c6482a352b1d505b_512.jpg",
+            "collage_image": "https://images.meesho.com/images/catalogs/141850162/collages/1/1/2589bfa25f01a0d92ea8f61cbb9019c68269c38d0289b071fe6943c14d0039b1a7dec722d6aabfe94d3d418ceee522cc8197787bca325152c6482a352b1d505b.jpg",
+            "image_aspect_ratio": 1.77,
+            "collage_image_aspect_ratio": 1.48,
+            "created": "2024-11-28 18:53:05",
+            "created_iso": "2024-11-28T18:53:05+0530",
+            "valid": true,
+            "trend": "",
+            "popular": false,
+            "has_mrp": true,
+            "is_added_to_wishlist": false,
+            "assured_details": {
+                "is_assured": true,
+                "message": "Best quality products from trusted suppliers."
+            },
+            "mall_verified": false,
+            "shipping_charges_adjustment": 66,
+            "story_images": [],
+            "catalog_reviews_summary": {
+                "rating_count_map": {
+                    "1": 28,
+                    "2": 6,
+                    "3": 20,
+                    "4": 29,
+                    "5": 116
+                },
+                "average_rating": 4,
+                "absolute_average_rating": 5,
+                "average_rating_str": "4.0",
+                "rating_scale": 5,
+                "review_count": 48,
+                "rating_count": 199
+            },
+            "shipping": {
+                "charges": 0,
+                "discount": 0,
+                "show_shipping_charges": false,
+                "show_free_delivery": true
+            },
+            "shipping_2": {
+                "charges": 0,
+                "discount": 0,
+                "show_shipping_charges": false,
+                "show_free_delivery": true
+            },
+            "tags": [
+                {
+                    "name": "NEXT DAY DISPATCH"
+                }
+            ],
+            "app_event_data": {
+                "price_metadata": "eyJydG9DaGFyZ2UiOjAsInJ0b0Rpc2NvdW50IjowLCJzaGlwcGluZ0NoYXJnZSI6MCwiZGVsaXZlcnlGZWVzIjowLCJzaGlwcGluZ0NoYXJnZXNBZGp1c3RtZW50Ijo2Niwiem9uYWxEaXNjb3VudCI6MCwiem9uYWxDaGFyZ2UiOjAsInNlcnZpbmdQcmljZSI6Mjc4LCJtYXhEaXNjb3VudFBlcmNlbnRhZ2UiOjAsImludmVudG9yeUNvdW50Ijo0ODMsImNvZERpc2NvdW50IjoyMSwic3VwcGxpZXJQcmljZSI6MjEyLCJiZnNEaXNjb3VudCI6MCwidGF4QXJiaXRyYWdlR3N0IjowLjAsInRheEFyYml0cmFnZVdpdGhvdXRHc3QiOjAuMCwidmFsbW9EaXNjb3VudCI6MC4wLCJpbnN0cnVtZW50YXRpb25PZmZlcnMiOnt9fQ"
+            },
+            "gray_tags": [],
+            "value_prop_tag": {
+                "name": "NEXT DAY DISPATCH"
+            },
+            "ad": {
+                "active": true,
+                "tag": "Ad",
+                "metadata": "wP0Xb8TO+2WpXB48sdKZow=="
+            },
+            "has_same_price_products": true,
+            "product_images": [
+                {
+                    "id": 461351909,
+                    "url": "https://images.meesho.com/images/products/461351909/gecho_512.jpg"
+                },
+                {
+                    "id": 461351912,
+                    "url": "https://images.meesho.com/images/products/461351912/vz6fy_512.jpg"
+                },
+                {
+                    "id": 461351911,
+                    "url": "https://images.meesho.com/images/products/461351911/nozye_512.jpg"
+                },
+                {
+                    "id": 461351910,
+                    "url": "https://images.meesho.com/images/products/461351910/kedxz_512.jpg"
+                }
+            ],
+            "activated": "2024-12-18 15:16:12",
+            "activated_iso": "2024-12-18T15:16:12+0530",
+            "num_shares": "0 Shares",
+            "margin": {
+                "enabled": false
+            },
+            "price_type_id": "premium_return_price",
+            "special_offers": {
+                "display_text": "₹247 with 2 Special Offers",
+                "offers": [
+                    {
+                        "type": "cod_unbundling",
+                        "amount": 21
+                    },
+                    {
+                        "type": "return_options",
+                        "amount": 10
+                    }
+                ]
+            },
+            "consumer_share_text": "Hey, check out this product on Meesho!\r\n\r\nGet upto 25% OFF on your first order. Also grab extra 25% on new products every 3 hours!\r\n\nhttps://www.meesho.com/s/p/7modet?utm_source=s",
+            "product_attributes": [
+                "Concern: No Concern"
+            ],
+            "hero_product_name": "Smashing makeup kit of 17 Makeup Items M Kit C167 LP4 5 NP1 2",
+            "high_asp_enabled": false,
+            "gst_type": "GSTIN",
+            "state_code": "DL",
+            "affiliate_commission_text": "",
+            "lc_commission_text": "",
+            "images": [
+                "https://images.meesho.com/images/products/461351909/gecho_512.jpg"
+            ],
+            "product_id": "7modet",
+            "slug": "smashing-makeup-kit-of-17-makeup-items-m-kit-c167-lp4-5-np1-2",
+            "original_slug": "smashing-makeup-kit-of-17-makeup-items-m-kit-c167-lp4-5-np1-2",
+            "isAdProduct": true,
+            "original_product_id": 461351909,
+            "catalogId": 141850162
+        },
+        {
+            "id": 138850076,
+            "hero_pid": 455340464,
+            "name": "Trendy Makeup Blenders And Puffs",
+            "category_id": 5636,
+            "sub_sub_category_name": "Makeup Blenders And Puffs",
+            "min_catalog_price": 62,
+            "min_product_price": 62,
+            "description": " New Collections Of Face Makeup Combo",
+            "full_details": "Net Quantity (N): 2\nSkin Type: All Skin Types\nType: Cream\nCapacity: 100-200gm\nShade: 10 Light\nFinish: Glitter\n\nDispatch: 2-2 Days",
+            "share_text": "Catalog Name:*Trendy Makeup Blenders And Puffs*\nNet Quantity (N): 2\n\nDispatch: 1 Day\n\n*Proof of Safe Delivery! Click to know on Safety Standards of Delivery Partners- https://ltl.sh/y_nZrAV3",
+            "hot": false,
+            "type": "catalog",
+            "pre_booking": false,
+            "priority": 0,
+            "num_suppliers": 0,
+            "num_designs": 1,
+            "image": "https://images.meesho.com/images/catalogs/138850076/cover/1/2/b0d3f57ebbdcabaf8e041d1bd12a0eab037fe402938a7ea7c7132c02dc1e4361a2079a3ec3d33c08444ca38e5f552f45beea78e259c4efb4ebd1a52631fbaa71_512.jpg",
+            "collage_image": "https://images.meesho.com/images/catalogs/138850076/collages/1/1/b0d3f57ebbdcabaf8e041d1bd12a0eab037fe402938a7ea7c7132c02dc1e4361a2079a3ec3d33c08444ca38e5f552f45beea78e259c4efb4ebd1a52631fbaa71.jpg",
+            "image_aspect_ratio": 1.77,
+            "collage_image_aspect_ratio": 1.48,
+            "created": "2024-10-26 22:56:00",
+            "created_iso": "2024-10-26T22:56:00+0530",
+            "valid": true,
+            "trend": "",
+            "popular": false,
+            "has_mrp": true,
+            "is_added_to_wishlist": false,
+            "assured_details": {
+                "is_assured": false,
+                "message": "Best quality products from trusted suppliers."
+            },
+            "mall_verified": false,
+            "shipping_charges_adjustment": 0,
+            "story_images": [],
+            "catalog_reviews_summary": {
+                "rating_count_map": {
+                    "1": 32,
+                    "2": 11,
+                    "3": 17,
+                    "4": 22,
+                    "5": 142
+                },
+                "average_rating": 4,
+                "absolute_average_rating": 5,
+                "average_rating_str": "4.0",
+                "rating_scale": 5,
+                "review_count": 61,
+                "rating_count": 224
+            },
+            "shipping": {
+                "charges": 55,
+                "discount": 15,
+                "show_shipping_charges": true,
+                "show_free_delivery": false
+            },
+            "shipping_2": {
+                "charges": 55,
+                "discount": 15,
+                "show_shipping_charges": true,
+                "show_free_delivery": false
+            },
+            "tags": [
+                {
+                    "name": "NEXT DAY DISPATCH"
+                }
+            ],
+            "app_event_data": {
+                "price_metadata": "eyJydG9DaGFyZ2UiOjAsInJ0b0Rpc2NvdW50IjowLCJzaGlwcGluZ0NoYXJnZSI6NTUsImRlbGl2ZXJ5RmVlcyI6MCwic2hpcHBpbmdDaGFyZ2VzQWRqdXN0bWVudCI6MCwiem9uYWxEaXNjb3VudCI6MCwiem9uYWxDaGFyZ2UiOjAsInNlcnZpbmdQcmljZSI6NjIsIm1heERpc2NvdW50UGVyY2VudGFnZSI6MCwiaW52ZW50b3J5Q291bnQiOjgzMzgsImNvZERpc2NvdW50IjoxMywic3VwcGxpZXJQcmljZSI6NjIsImJmc0Rpc2NvdW50IjowLCJ0YXhBcmJpdHJhZ2VHc3QiOjAuMCwidGF4QXJiaXRyYWdlV2l0aG91dEdzdCI6MC4wLCJ2YWxtb0Rpc2NvdW50IjowLjAsImluc3RydW1lbnRhdGlvbk9mZmVycyI6e319"
+            },
+            "gray_tags": [],
+            "value_prop_tag": {
+                "name": "NEXT DAY DISPATCH"
+            },
+            "has_same_price_products": true,
+            "product_images": [
+                {
+                    "id": 455340464,
+                    "url": "https://images.meesho.com/images/products/455340464/vdz20_512.jpg"
+                }
+            ],
+            "activated": "2024-10-28 01:39:32",
+            "activated_iso": "2024-10-28T01:39:32+0530",
+            "num_shares": "0 Shares",
+            "margin": {
+                "enabled": false
+            },
+            "price_type_id": "premium_return_price",
+            "special_offers": {
+                "display_text": "₹48 with 2 Special Offers",
+                "offers": [
+                    {
+                        "type": "cod_unbundling",
+                        "amount": 13
+                    },
+                    {
+                        "type": "return_options",
+                        "amount": 1
+                    }
+                ]
+            },
+            "consumer_share_text": "Hey, check out this product on Meesho!\r\n\r\nGet upto 25% OFF on your first order. Also grab extra 25% on new products every 3 hours!\r\n\nhttps://www.meesho.com/s/p/7j3iy8?utm_source=s",
+            "product_attributes": [
+                "Concern: No Concern",
+                "Skin type: All Skin Types"
+            ],
+            "hero_product_name": "Face Makeup Combo ",
+            "high_asp_enabled": false,
+            "gst_type": "GSTIN",
+            "state_code": "HR",
+            "affiliate_commission_text": "",
+            "lc_commission_text": "",
+            "images": [
+                "https://images.meesho.com/images/products/455340464/vdz20_512.jpg"
+            ],
+            "product_id": "7j3iy8",
+            "slug": "face-makeup-combo",
+            "original_slug": "face-makeup-combo",
+            "isAdProduct": false,
+            "original_product_id": 455340464,
+            "catalogId": 138850076
+        },
+        {
+            "id": 70453174,
+            "hero_pid": 235062908,
+            "name": " Proffesional Intense Foundation",
+            "category_id": 5606,
+            "sub_sub_category_name": "Foundation",
+            "min_catalog_price": 143,
+            "min_product_price": 143,
+            "description": " Proffesional Intense Foundation",
+            "full_details": "Finish: Natural\nShade: Fair\nType: Mousse\nNet Quantity (N): 1\nAdd On: BB & CC Cream\nDispatch: 2-2 Days",
+            "share_text": "Catalog Name:* Proffesional Intense Foundation*\nBrand: Others\nFinish: Natural\nShade: Natural\nType: Mousse\nNet Quantity (N): 1\nAdd On: BB & CC Cream\nDispatch: 1 Day\n\n*Proof of Safe Delivery! Click to know on Safety Standards of Delivery Partners- https://ltl.sh/y_nZrAV3",
+            "hot": false,
+            "type": "catalog",
+            "pre_booking": false,
+            "priority": 0,
+            "num_suppliers": 0,
+            "num_designs": 1,
+            "image": "https://images.meesho.com/images/catalogs/70453174/cover/1/2/ac1c62d6ac5eec72ff42b5c44caa232a94692d816607f7793b6f4aaf5323e750dd9214f603716e5f49e9d977cabc666478c0841d676254a1b17efc114ea1ad73_512.jpg",
+            "collage_image": "https://images.meesho.com/images/catalogs/70453174/collages/1/1/ac1c62d6ac5eec72ff42b5c44caa232a94692d816607f7793b6f4aaf5323e750dd9214f603716e5f49e9d977cabc666478c0841d676254a1b17efc114ea1ad73.jpg",
+            "image_aspect_ratio": 1.77,
+            "collage_image_aspect_ratio": 1.48,
+            "created": "2023-02-08 20:21:44",
+            "created_iso": "2023-02-08T20:21:44+0530",
+            "valid": true,
+            "trend": "",
+            "popular": false,
+            "has_mrp": true,
+            "is_added_to_wishlist": false,
+            "assured_details": {
+                "is_assured": false,
+                "message": "Best quality products from trusted suppliers."
+            },
+            "mall_verified": false,
+            "shipping_charges_adjustment": 61,
+            "story_images": [],
+            "catalog_reviews_summary": {
+                "rating_count_map": {
+                    "1": 851,
+                    "2": 377,
+                    "3": 744,
+                    "4": 1011,
+                    "5": 3306
+                },
+                "average_rating": 3.9,
+                "absolute_average_rating": 4,
+                "average_rating_str": "3.9",
+                "rating_scale": 5,
+                "review_count": 2266,
+                "rating_count": 6289
+            },
+            "shipping": {
+                "charges": 0,
+                "discount": 0,
+                "show_shipping_charges": false,
+                "show_free_delivery": true
+            },
+            "shipping_2": {
+                "charges": 0,
+                "discount": 0,
+                "show_shipping_charges": false,
+                "show_free_delivery": true
+            },
+            "tags": [
+                {
+                    "name": "NEXT DAY DISPATCH"
+                }
+            ],
+            "app_event_data": {
+                "price_metadata": "eyJydG9DaGFyZ2UiOjAsInJ0b0Rpc2NvdW50IjowLCJzaGlwcGluZ0NoYXJnZSI6MCwiZGVsaXZlcnlGZWVzIjowLCJzaGlwcGluZ0NoYXJnZXNBZGp1c3RtZW50Ijo2MSwiem9uYWxEaXNjb3VudCI6MCwiem9uYWxDaGFyZ2UiOjAsInNlcnZpbmdQcmljZSI6MTQzLCJtYXhEaXNjb3VudFBlcmNlbnRhZ2UiOjAsImludmVudG9yeUNvdW50Ijo4NDYsImNvZERpc2NvdW50IjoxNiwic3VwcGxpZXJQcmljZSI6ODIsImJmc0Rpc2NvdW50IjowLCJ0YXhBcmJpdHJhZ2VHc3QiOjAuMCwidGF4QXJiaXRyYWdlV2l0aG91dEdzdCI6MC4wLCJ2YWxtb0Rpc2NvdW50IjowLjAsImluc3RydW1lbnRhdGlvbk9mZmVycyI6e319"
+            },
+            "gray_tags": [],
+            "value_prop_tag": {
+                "name": "NEXT DAY DISPATCH"
+            },
+            "has_same_price_products": true,
+            "product_images": [
+                {
+                    "id": 235062908,
+                    "url": "https://images.meesho.com/images/products/235062908/8vbjf_512.jpg"
+                }
+            ],
+            "activated": "2023-02-16 12:46:01",
+            "activated_iso": "2023-02-16T12:46:01+0530",
+            "num_shares": "0 Shares",
+            "margin": {
+                "enabled": false
+            },
+            "price_type_id": "premium_return_price",
+            "special_offers": {
+                "display_text": "₹126 with 2 Special Offers",
+                "offers": [
+                    {
+                        "type": "cod_unbundling",
+                        "amount": 16
+                    },
+                    {
+                        "type": "return_options",
+                        "amount": 1
+                    }
+                ]
+            },
+            "consumer_share_text": "Hey, check out this product on Meesho!\r\n\r\nGet upto 25% OFF on your first order. Also grab extra 25% on new products every 3 hours!\r\n\nhttps://www.meesho.com/s/p/3vy7p8?utm_source=s",
+            "product_attributes": [
+                "Concern: No Concern"
+            ],
+            "hero_product_name": "sunisa WATERPROOF and SWEAT RESISTANT Mushroom Head Make up Air Cushion Moisturizing Foundation  (beige, 20 g)",
+            "high_asp_enabled": false,
+            "gst_type": "GSTIN",
+            "state_code": "HR",
+            "affiliate_commission_text": "10% Commission",
+            "lc_commission_text": "",
+            "images": [
+                "https://images.meesho.com/images/products/235062908/8vbjf_512.jpg"
+            ],
+            "product_id": "3vy7p8",
+            "slug": "sunisa-waterproof-and-sweat-resistant-mushroom-head-make-up-air-cushion-moisturizing-foundation-beige-20-g",
+            "original_slug": "sunisa-waterproof-and-sweat-resistant-mushroom-head-make-up-air-cushion-moisturizing-foundation-beige-20-g",
+            "isAdProduct": false,
+            "original_product_id": 235062908,
+            "catalogId": 70453174
+        },
+        {
+            "id": 95812410,
+            "hero_pid": 329628830,
+            "name": "Graceful Makeup Kits",
+            "category_id": 5486,
+            "sub_sub_category_name": "Makeup Kits",
+            "min_catalog_price": 282,
+            "min_product_price": 282,
+            "description": "Graceful Makeup Kits",
+            "full_details": "Color: 15 Fair\nFlavour: No Flavour\nNet Quantity (N): 16\n\nDispatch: 2-2 Days",
+            "share_text": "Catalog Name:*Graceful Makeup Kits*\nColor: 15 Fair\nFlavour: No Flavour\nNet Quantity (N): 16\n\nDispatch: 1 Day\n\n*Proof of Safe Delivery! Click to know on Safety Standards of Delivery Partners- https://ltl.sh/y_nZrAV3",
+            "hot": false,
+            "type": "catalog",
+            "pre_booking": false,
+            "priority": 0,
+            "num_suppliers": 0,
+            "num_designs": 2,
+            "image": "https://images.meesho.com/images/catalogs/95812410/cover/1/2/8191c0219e95ee8d539bffd19e1b1ad0d4c53cfd7d7eb05f66b5cf4e00d5c97b9cf330a5ccc034cde8b59c0397b0a103206a0e9981dcdd8fca82152a7a4ac2d6_512.jpg",
+            "collage_image": "https://images.meesho.com/images/catalogs/95812410/collages/1/1/8191c0219e95ee8d539bffd19e1b1ad0d4c53cfd7d7eb05f66b5cf4e00d5c97b9cf330a5ccc034cde8b59c0397b0a103206a0e9981dcdd8fca82152a7a4ac2d6.jpg",
+            "image_aspect_ratio": 1.77,
+            "collage_image_aspect_ratio": 1.48,
+            "created": "2023-08-28 18:37:19",
+            "created_iso": "2023-08-28T18:37:19+0530",
+            "valid": true,
+            "trend": "",
+            "popular": false,
+            "has_mrp": true,
+            "is_added_to_wishlist": false,
+            "assured_details": {
+                "is_assured": true,
+                "message": "Best quality products from trusted suppliers."
+            },
+            "mall_verified": false,
+            "shipping_charges_adjustment": 66,
+            "story_images": [],
+            "catalog_reviews_summary": {
+                "rating_count_map": {
+                    "1": 92,
+                    "2": 45,
+                    "3": 123,
+                    "4": 212,
+                    "5": 613
+                },
+                "average_rating": 4.1,
+                "absolute_average_rating": 5,
+                "average_rating_str": "4.1",
+                "rating_scale": 5,
+                "review_count": 317,
+                "rating_count": 1085
+            },
+            "shipping": {
+                "charges": 0,
+                "discount": 0,
+                "show_shipping_charges": false,
+                "show_free_delivery": true
+            },
+            "shipping_2": {
+                "charges": 0,
+                "discount": 0,
+                "show_shipping_charges": false,
+                "show_free_delivery": true
+            },
+            "tags": [
+                {
+                    "name": "NEXT DAY DISPATCH"
+                }
+            ],
+            "app_event_data": {
+                "price_metadata": "eyJydG9DaGFyZ2UiOjAsInJ0b0Rpc2NvdW50IjowLCJzaGlwcGluZ0NoYXJnZSI6MCwiZGVsaXZlcnlGZWVzIjowLCJzaGlwcGluZ0NoYXJnZXNBZGp1c3RtZW50Ijo2Niwiem9uYWxEaXNjb3VudCI6MCwiem9uYWxDaGFyZ2UiOjAsInNlcnZpbmdQcmljZSI6MjgyLCJtYXhEaXNjb3VudFBlcmNlbnRhZ2UiOjAsImludmVudG9yeUNvdW50IjoyNiwiY29kRGlzY291bnQiOjIxLCJzdXBwbGllclByaWNlIjoyMTYsImJmc0Rpc2NvdW50IjowLCJ0YXhBcmJpdHJhZ2VHc3QiOjAuMCwidGF4QXJiaXRyYWdlV2l0aG91dEdzdCI6MC4wLCJ2YWxtb0Rpc2NvdW50IjowLjAsImluc3RydW1lbnRhdGlvbk9mZmVycyI6e319"
+            },
+            "gray_tags": [],
+            "value_prop_tag": {
+                "name": "NEXT DAY DISPATCH"
+            },
+            "ad": {
+                "active": true,
+                "tag": "Ad",
+                "metadata": "RvzO2m0QG9zKN5sT/psSLg=="
+            },
+            "has_same_price_products": true,
+            "product_images": [
+                {
+                    "id": 329628830,
+                    "url": "https://images.meesho.com/images/products/329628830/jrjyr_512.jpg"
+                },
+                {
+                    "id": 329628831,
+                    "url": "https://images.meesho.com/images/products/329628831/ajj2s_512.jpg"
+                }
+            ],
+            "activated": "2025-03-20 12:19:56",
+            "activated_iso": "2025-03-20T12:19:56+0530",
+            "num_shares": "0 Shares",
+            "margin": {
+                "enabled": false
+            },
+            "price_type_id": "premium_return_price",
+            "special_offers": {
+                "display_text": "₹258 with 2 Special Offers",
+                "offers": [
+                    {
+                        "type": "cod_unbundling",
+                        "amount": 21
+                    },
+                    {
+                        "type": "return_options",
+                        "amount": 3
+                    }
+                ]
+            },
+            "consumer_share_text": "Hey, check out this product on Meesho!\r\n\r\nGet upto 25% OFF on your first order. Also grab extra 25% on new products every 3 hours!\r\n\nhttps://www.meesho.com/s/p/5g938e?utm_source=s",
+            "product_attributes": [
+                "Concern: No Concern"
+            ],
+            "hero_product_name": "Free Style Makeup Kit of 16 Makeup Items M Kit A11 Liq3 8 NP GS",
+            "high_asp_enabled": false,
+            "gst_type": "GSTIN",
+            "state_code": "DL",
+            "affiliate_commission_text": "",
+            "lc_commission_text": "",
+            "images": [
+                "https://images.meesho.com/images/products/329628830/jrjyr_512.jpg"
+            ],
+            "product_id": "5g938e",
+            "slug": "free-style-makeup-kit-of-16-makeup-items-m-kit-a11-liq3-8-np-gs",
+            "original_slug": "free-style-makeup-kit-of-16-makeup-items-m-kit-a11-liq3-8-np-gs",
+            "isAdProduct": true,
+            "original_product_id": 329628830,
+            "catalogId": 95812410
+        },
+        {
+            "id": 88479045,
+            "hero_pid": 304136152,
+            "name": "Elegant Makeup Kits",
+            "category_id": 5486,
+            "sub_sub_category_name": "Makeup Kits",
+            "min_catalog_price": 169,
+            "min_product_price": 169,
+            "description": "Elegant Makeup Kits",
+            "full_details": "Color: Pink\nFlavour: No Flavour\nNet Quantity (N): 2\n\nDispatch: 2-2 Days",
+            "share_text": "Catalog Name:*Elegant Makeup Kits*\nColor: Pink\nFlavour: No Flavour\nNet Quantity (N): 2\n\nDispatch: 1 Day\n\n*Proof of Safe Delivery! Click to know on Safety Standards of Delivery Partners- https://ltl.sh/y_nZrAV3",
+            "hot": false,
+            "type": "catalog",
+            "pre_booking": false,
+            "priority": 0,
+            "num_suppliers": 0,
+            "num_designs": 1,
+            "image": "https://images.meesho.com/images/catalogs/88479045/cover/1/2/3359246e53fabc40adc518c3eb33289a938e2297af514b8e4846fb2ca3dffa173150b0eb75be16a63ae669e282d16238cb7e36d3cc7d005d1f27647330d91ce2_512.jpg",
+            "collage_image": "https://images.meesho.com/images/catalogs/88479045/collages/1/1/3359246e53fabc40adc518c3eb33289a938e2297af514b8e4846fb2ca3dffa173150b0eb75be16a63ae669e282d16238cb7e36d3cc7d005d1f27647330d91ce2.jpg",
+            "image_aspect_ratio": 1.77,
+            "collage_image_aspect_ratio": 1.48,
+            "created": "2023-06-27 16:29:48",
+            "created_iso": "2023-06-27T16:29:48+0530",
+            "valid": true,
+            "trend": "",
+            "popular": false,
+            "has_mrp": true,
+            "is_added_to_wishlist": false,
+            "assured_details": {
+                "is_assured": false,
+                "message": "Best quality products from trusted suppliers."
+            },
+            "mall_verified": false,
+            "shipping_charges_adjustment": 66,
+            "story_images": [],
+            "catalog_reviews_summary": {
+                "rating_count_map": {
+                    "1": 10,
+                    "2": 7,
+                    "3": 25,
+                    "4": 35,
+                    "5": 78
+                },
+                "average_rating": 4.1,
+                "absolute_average_rating": 5,
+                "average_rating_str": "4.1",
+                "rating_scale": 5,
+                "review_count": 28,
+                "rating_count": 155
+            },
+            "shipping": {
+                "charges": 0,
+                "discount": 0,
+                "show_shipping_charges": false,
+                "show_free_delivery": true
+            },
+            "shipping_2": {
+                "charges": 0,
+                "discount": 0,
+                "show_shipping_charges": false,
+                "show_free_delivery": true
+            },
+            "tags": [
+                {
+                    "name": "NEXT DAY DISPATCH"
+                }
+            ],
+            "app_event_data": {
+                "price_metadata": "eyJydG9DaGFyZ2UiOjAsInJ0b0Rpc2NvdW50IjowLCJzaGlwcGluZ0NoYXJnZSI6MCwiZGVsaXZlcnlGZWVzIjowLCJzaGlwcGluZ0NoYXJnZXNBZGp1c3RtZW50Ijo2Niwiem9uYWxEaXNjb3VudCI6MCwiem9uYWxDaGFyZ2UiOjAsInNlcnZpbmdQcmljZSI6MTY5LCJtYXhEaXNjb3VudFBlcmNlbnRhZ2UiOjAsImludmVudG9yeUNvdW50IjoyODgsImNvZERpc2NvdW50IjoyMSwic3VwcGxpZXJQcmljZSI6MTAzLCJiZnNEaXNjb3VudCI6MCwidGF4QXJiaXRyYWdlR3N0IjowLjAsInRheEFyYml0cmFnZVdpdGhvdXRHc3QiOjAuMCwidmFsbW9EaXNjb3VudCI6MC4wLCJpbnN0cnVtZW50YXRpb25PZmZlcnMiOnt9fQ"
+            },
+            "gray_tags": [],
+            "value_prop_tag": {
+                "name": "NEXT DAY DISPATCH"
+            },
+            "has_same_price_products": true,
+            "product_images": [
+                {
+                    "id": 304136152,
+                    "url": "https://images.meesho.com/images/products/304136152/rv4xz_512.jpg"
+                }
+            ],
+            "activated": "2023-06-30 06:30:57",
+            "activated_iso": "2023-06-30T06:30:57+0530",
+            "num_shares": "0 Shares",
+            "margin": {
+                "enabled": false
+            },
+            "price_type_id": "premium_return_price",
+            "special_offers": {
+                "display_text": "₹148 with 1 Special Offer",
+                "offers": [
+                    {
+                        "type": "cod_unbundling",
+                        "amount": 21
+                    }
+                ]
+            },
+            "consumer_share_text": "Hey, check out this product on Meesho!\r\n\r\nGet upto 25% OFF on your first order. Also grab extra 25% on new products every 3 hours!\r\n\nhttps://www.meesho.com/s/p/512oyg?utm_source=s",
+            "product_attributes": [
+                "Concern: No Concern"
+            ],
+            "hero_product_name": "MINI MAKEUP KIT WITH 5 PCS PINK BRUSH SET ( 2 ITEN SET)",
+            "high_asp_enabled": false,
+            "gst_type": "GSTIN",
+            "state_code": "HR",
+            "affiliate_commission_text": "",
+            "lc_commission_text": "",
+            "images": [
+                "https://images.meesho.com/images/products/304136152/rv4xz_512.jpg"
+            ],
+            "product_id": "512oyg",
+            "slug": "mini-makeup-kit-with-5-pcs-pink-brush-set-2-iten-set",
+            "original_slug": "mini-makeup-kit-with-5-pcs-pink-brush-set-2-iten-set",
+            "isAdProduct": false,
+            "original_product_id": 304136152,
+            "catalogId": 88479045
+        },
+        {
+            "id": 130430293,
+            "hero_pid": 437065388,
+            "name": " Proffesional Unique Lipsticks",
+            "category_id": 5605,
+            "sub_sub_category_name": "Lipsticks",
+            "min_catalog_price": 169,
+            "min_product_price": 169,
+            "description": " Proffesional Unique Lipsticks",
+            "full_details": "Finish: Matte\nColor: Combo Of Different Color\nType: Liquid\nNet Quantity (N): 6\nAdd On: Eye Liner\nDispatch: 2-2 Days",
+            "share_text": "Catalog Name:* Proffesional Unique Lipsticks*\nFinish: Matte\nColor: Combo Of Pink Red Maroon\nType: Liquid\nNet Quantity (N): 6\nAdd On: Eye Liner\nDispatch: 1 Day\n\n*Proof of Safe Delivery! Click to know on Safety Standards of Delivery Partners- https://ltl.sh/y_nZrAV3",
+            "hot": false,
+            "type": "catalog",
+            "pre_booking": false,
+            "priority": 0,
+            "num_suppliers": 0,
+            "num_designs": 1,
+            "image": "https://images.meesho.com/images/catalogs/130430293/cover/1/2/c10b5abac27dcd47e5dcd3d9415f67d570669fc12aae03cbf6d450040c51b886661bb0d64ef5fd3518265ec3076f54da62a4f15a33794cf7638197420206f17d_512.jpg",
+            "collage_image": "https://images.meesho.com/images/catalogs/130430293/collages/1/1/c10b5abac27dcd47e5dcd3d9415f67d570669fc12aae03cbf6d450040c51b886661bb0d64ef5fd3518265ec3076f54da62a4f15a33794cf7638197420206f17d.jpg",
+            "image_aspect_ratio": 1.77,
+            "collage_image_aspect_ratio": 1.48,
+            "created": "2024-08-21 18:28:00",
+            "created_iso": "2024-08-21T18:28:00+0530",
+            "valid": true,
+            "trend": "",
+            "popular": false,
+            "has_mrp": true,
+            "is_added_to_wishlist": false,
+            "assured_details": {
+                "is_assured": false,
+                "message": "Best quality products from trusted suppliers."
+            },
+            "mall_verified": false,
+            "shipping_charges_adjustment": 60,
+            "story_images": [],
+            "catalog_reviews_summary": {
+                "rating_count_map": {
+                    "1": 162,
+                    "2": 72,
+                    "3": 137,
+                    "4": 188,
+                    "5": 1017
+                },
+                "average_rating": 4.2,
+                "absolute_average_rating": 5,
+                "average_rating_str": "4.2",
+                "rating_scale": 5,
+                "review_count": 681,
+                "rating_count": 1576
+            },
+            "shipping": {
+                "charges": 0,
+                "discount": 0,
+                "show_shipping_charges": false,
+                "show_free_delivery": true
+            },
+            "shipping_2": {
+                "charges": 0,
+                "discount": 0,
+                "show_shipping_charges": false,
+                "show_free_delivery": true
+            },
+            "tags": [
+                {
+                    "name": "NEXT DAY DISPATCH"
+                }
+            ],
+            "app_event_data": {
+                "price_metadata": "eyJydG9DaGFyZ2UiOjAsInJ0b0Rpc2NvdW50IjowLCJzaGlwcGluZ0NoYXJnZSI6MCwiZGVsaXZlcnlGZWVzIjowLCJzaGlwcGluZ0NoYXJnZXNBZGp1c3RtZW50Ijo2MCwiem9uYWxEaXNjb3VudCI6MCwiem9uYWxDaGFyZ2UiOjAsInNlcnZpbmdQcmljZSI6MTY5LCJtYXhEaXNjb3VudFBlcmNlbnRhZ2UiOjAsImludmVudG9yeUNvdW50IjoxNSwiY29kRGlzY291bnQiOjE2LCJzdXBwbGllclByaWNlIjoxMDksImJmc0Rpc2NvdW50IjowLCJ0YXhBcmJpdHJhZ2VHc3QiOjAuMCwidGF4QXJiaXRyYWdlV2l0aG91dEdzdCI6MC4wLCJ2YWxtb0Rpc2NvdW50IjowLjAsImluc3RydW1lbnRhdGlvbk9mZmVycyI6e319"
+            },
+            "gray_tags": [],
+            "value_prop_tag": {
+                "name": "NEXT DAY DISPATCH"
+            },
+            "has_same_price_products": true,
+            "product_images": [
+                {
+                    "id": 437065388,
+                    "url": "https://images.meesho.com/images/products/437065388/6eu5u_512.jpg"
+                }
+            ],
+            "activated": "2024-08-23 22:13:43",
+            "activated_iso": "2024-08-23T22:13:43+0530",
+            "num_shares": "0 Shares",
+            "margin": {
+                "enabled": false
+            },
+            "price_type_id": "premium_return_price",
+            "special_offers": {
+                "display_text": "₹153 with 1 Special Offer",
+                "offers": [
+                    {
+                        "type": "cod_unbundling",
+                        "amount": 16
+                    }
+                ]
+            },
+            "consumer_share_text": "Hey, check out this product on Meesho!\r\n\r\nGet upto 25% OFF on your first order. Also grab extra 25% on new products every 3 hours!\r\n\nhttps://www.meesho.com/s/p/787tt8?utm_source=s",
+            "product_attributes": [
+                "Type: Liquid"
+            ],
+            "hero_product_name": "Lipstick, Eyeliner with mini  Straightner",
+            "high_asp_enabled": false,
+            "gst_type": "GSTIN",
+            "state_code": "HR",
+            "affiliate_commission_text": "",
+            "lc_commission_text": "",
+            "images": [
+                "https://images.meesho.com/images/products/437065388/6eu5u_512.jpg"
+            ],
+            "product_id": "787tt8",
+            "slug": "lipstick-eyeliner-with-mini-straightner",
+            "original_slug": "lipstick-eyeliner-with-mini-straightner",
+            "isAdProduct": false,
+            "original_product_id": 437065388,
+            "catalogId": 130430293
+        },
+        {
+            "id": 108974947,
+            "hero_pid": 374845005,
+            "name": " Sensational Finishing Compact",
+            "category_id": 5518,
+            "sub_sub_category_name": "Compact",
+            "min_catalog_price": 155,
+            "min_product_price": 155,
+            "description": " Sensational Finishing Compact",
+            "full_details": "Finish: Matte\nType: Powder\nNet Quantity (N): 1\nDispatch: 2-2 Days",
+            "share_text": "Catalog Name:* Sensational Finishing Compact*\nFinish: Matte\nType: Powder\nNet Quantity (N): 1\nDispatch: 2 Days\n\n*Proof of Safe Delivery! Click to know on Safety Standards of Delivery Partners- https://ltl.sh/y_nZrAV3",
+            "hot": false,
+            "type": "catalog",
+            "pre_booking": false,
+            "priority": 0,
+            "num_suppliers": 0,
+            "num_designs": 1,
+            "image": "https://images.meesho.com/images/catalogs/108974947/cover/1/2/29f5efb530d2b2644045969f566ba09c0149b9e328dd923bc2b652a6db9dcd9cc6f2fb32d48066bf3788e9af265cc23b1b57d81de11678e3b52b34697e39a99d_512.jpg",
+            "collage_image": "https://images.meesho.com/images/catalogs/108974947/collages/1/1/29f5efb530d2b2644045969f566ba09c0149b9e328dd923bc2b652a6db9dcd9cc6f2fb32d48066bf3788e9af265cc23b1b57d81de11678e3b52b34697e39a99d.jpg",
+            "image_aspect_ratio": 1.77,
+            "collage_image_aspect_ratio": 1.48,
+            "created": "2023-12-26 19:45:25",
+            "created_iso": "2023-12-26T19:45:25+0530",
+            "valid": true,
+            "trend": "",
+            "popular": false,
+            "has_mrp": true,
+            "is_added_to_wishlist": false,
+            "assured_details": {
+                "is_assured": false,
+                "message": "Best quality products from trusted suppliers."
+            },
+            "mall_verified": false,
+            "shipping_charges_adjustment": 60,
+            "story_images": [],
+            "catalog_reviews_summary": {
+                "rating_count_map": {
+                    "1": 66,
+                    "2": 38,
+                    "3": 71,
+                    "4": 82,
+                    "5": 272
+                },
+                "average_rating": 3.9,
+                "absolute_average_rating": 4,
+                "average_rating_str": "3.9",
+                "rating_scale": 5,
+                "review_count": 159,
+                "rating_count": 529
+            },
+            "shipping": {
+                "charges": 0,
+                "discount": 0,
+                "show_shipping_charges": false,
+                "show_free_delivery": true
+            },
+            "shipping_2": {
+                "charges": 0,
+                "discount": 0,
+                "show_shipping_charges": false,
+                "show_free_delivery": true
+            },
+            "tags": [],
+            "app_event_data": {
+                "price_metadata": "eyJydG9DaGFyZ2UiOjAsInJ0b0Rpc2NvdW50IjowLCJzaGlwcGluZ0NoYXJnZSI6MCwiZGVsaXZlcnlGZWVzIjowLCJzaGlwcGluZ0NoYXJnZXNBZGp1c3RtZW50Ijo2MCwiem9uYWxEaXNjb3VudCI6MCwiem9uYWxDaGFyZ2UiOjAsInNlcnZpbmdQcmljZSI6MTU1LCJtYXhEaXNjb3VudFBlcmNlbnRhZ2UiOjAsImludmVudG9yeUNvdW50IjozMTQsImNvZERpc2NvdW50IjoxNiwic3VwcGxpZXJQcmljZSI6OTUsImJmc0Rpc2NvdW50IjowLCJ0YXhBcmJpdHJhZ2VHc3QiOjAuMCwidGF4QXJiaXRyYWdlV2l0aG91dEdzdCI6MC4wLCJ2YWxtb0Rpc2NvdW50IjowLjAsImluc3RydW1lbnRhdGlvbk9mZmVycyI6e319"
+            },
+            "gray_tags": [],
+            "has_same_price_products": true,
+            "product_images": [
+                {
+                    "id": 374845005,
+                    "url": "https://images.meesho.com/images/products/374845005/4yowv_512.jpg"
+                }
+            ],
+            "activated": "2023-12-27 03:01:12",
+            "activated_iso": "2023-12-27T03:01:12+0530",
+            "num_shares": "0 Shares",
+            "margin": {
+                "enabled": false
+            },
+            "price_type_id": "premium_return_price",
+            "special_offers": {
+                "display_text": "₹138 with 2 Special Offers",
+                "offers": [
+                    {
+                        "type": "cod_unbundling",
+                        "amount": 16
+                    },
+                    {
+                        "type": "return_options",
+                        "amount": 1
+                    }
+                ]
+            },
+            "consumer_share_text": "Hey, check out this product on Meesho!\r\n\r\nGet upto 25% OFF on your first order. Also grab extra 25% on new products every 3 hours!\r\n\nhttps://www.meesho.com/s/p/676899?utm_source=s",
+            "product_attributes": [
+                "Concern: No Concern"
+            ],
+            "hero_product_name": "Lanellie Makeup Kit for Girls Full Kit Eye shadow Lip Gloss Mirror Contour Powder Combination Palette Random-Design Random-Color Pack of 1",
+            "high_asp_enabled": false,
+            "gst_type": "GSTIN",
+            "state_code": "HR",
+            "affiliate_commission_text": "",
+            "lc_commission_text": "",
+            "images": [
+                "https://images.meesho.com/images/products/374845005/4yowv_512.jpg"
+            ],
+            "product_id": "676899",
+            "slug": "lanellie-makeup-kit-for-girls-full-kit-eye-shadow-lip-gloss-mirror-contour-powder-combination-palette-random-design-random-color-pack-of-1",
+            "original_slug": "lanellie-makeup-kit-for-girls-full-kit-eye-shadow-lip-gloss-mirror-contour-powder-combination-palette-random-design-random-color-pack-of-1",
+            "isAdProduct": false,
+            "original_product_id": 374845005,
+            "catalogId": 108974947
+        }
+    ],
+    "widget_groups": [],
+    "header_widget_groups": [],
+    "user_data": {},
+    "subscribed": false,
+    "cursor": "eyJkZF9zZXNzaW9uX2lkIjoiY3R4XzFfdWlkX2E0MGFhMzdiLWYxOGEtNGQ0MS04NWQxLWYzNzBmMTk3YmVhM190eHRfLTFfdF8xNzQzMDY3ODAzMzAxIiwiZmVlZF90cmFja2luZ19pZCI6bnVsbCwiY2F0YWxvZ19yYW5raW5nX2V4cCI6Ik5PTkUiLCJxd2VzdF9jdXJzb3IiOiJleUpqZFhKeVpXNTBUMlptYzJWMElqb3hOU3dpWm1seWMzUlFZV2RsSWpwbVlXeHpaU3dpYzNRaU9qRTFMQ0pwYm5OMGNuVnRaVzUwWDI5bVpuTmxkQ0k2Ym5Wc2JDd2laR0ZuWDI1aGJXVWlPaUp2Y21kaGJtbGpYMmhsWVdSZloxOXVaMTk2Ymw5a2JGOWlhV0Z6SWl3aWJtOWtaVjlqZFhKemIzSnpJanA3SW05bVpteHBibVZmWTJkZmJtOXVYMmR6ZEY5dWIyUmxJanA3SW1OblEzVnljMjl5SWpwdWRXeHNMQ0pvWVhOT1pYaDBJanBtWVd4elpYMHNJbTltWm14cGJtVmZZMmRmWjNOMFgyNXZaR1VpT25zaVkyZERkWEp6YjNJaU9pSjdYQ0pqYjF3aU9qazJmU0lzSW1oaGMwNWxlSFFpT25SeWRXVjlmWDA9IiwiaGFzX25leHRfb3JnYW5pY19jYXRhbG9nIjp0cnVlLCJmYWxsYmFja19jdXJzb3IiOm51bGwsImhhc19uZXh0X2ZhbGxiYWNrX2NhdGFsb2ciOmZhbHNlLCJmYWxsYmFja19jb3VudCI6MCwiYWRfY3Vyc29yIjoiZXlKallYUmhiRzluWDJsa0lqbzVOVGd4TWpReE1Dd2lZMkYwWVd4dloxOXBaSGdpT2pRc0luTnZkWEpqWlNJNklrUkZSa0ZWVEZRaUxDSjFjMlZ5WDJGeWJWOWpiMjVtYVdjaU9uc2lkWE5sY2tsa0lqb2lZVFF3WVdFek4ySXRaakU0WVMwMFpEUXhMVGcxWkRFdFpqTTNNR1l4T1RkaVpXRXpJaXdpWVhKdFNXUWlPaUprWldaaGRXeDBJaXdpY21WaGJFVnpkR0YwWlNJNkluUmxlSFJmYzJWaGNtTm9JaXdpWjI5dlpHNWxjM05YWldsbmFIUWlPakF1TnpVc0ltTndZMWRsYVdkb2RDSTZNQzR5TlN3aVkyOTFiblJ5ZVNJNklrbE9JbjBzSW1Gc1oyOGlPaUpsY3kxa2IzUXRjSEp2WkhWamRDSXNJbk5sWVhKamFGOXZjbU5vWlhOMGNtRjBiM0pmWTNWeWMyOXlJam9pWlhsS2JXRllTbnBrUmtKb1dqSlZhVTl0V21oaVNFNXNURU5LYW1SWVNubGFWelV3VkRKYWJXTXlWakJKYW04eFRFTktlbVJEU1RaT1UzZHBZVmMxZW1SSVNqRmlWMVoxWkVZNWRscHRXbnBhV0ZGcFQyMDFNV0pIZDNOSmJWSm9XakU1ZFZsWE1XeEphbTlwV1ZkUmRHTnRWbXRoV0UxMFlVZFdhRnBETVcxaVIwWXlXVk14TWsxVE1XcGtiVmwwWkRKc01HRkRNV3RhVjBwd1dWaE9iRnBETVhsWlZ6VnlXbGhKYVV4RFNuVmlNbEpzV0RKT01XTnVUblpqYmsxcFQyNXphV0ZYUm1wYU1UbDRXa2hLYUdKdVVtWmliVGxyV2xOSk5tVjVTbXBhTUU0eFkyNU9kbU5wU1RaSmJWWTFVMjF3WVUxVWJERlhWbU40WWtWc2NXSXliR3BXTVVvMVYxWmpNVTFGYkhCa01teGFUVzFTYlZwSE1WZGxWMDE1WWtoYWFXRlZhekpUVjNCT1pWVnNjR1F5YkZwTmJWSnRXWHBPVW1GVk9YRlVWRVpOVVRCd2NWZHFSVFZoYlZKWlUyNXdhVTB3YkhCVU1qQXhUVmRLU0dWRWEybE1RMHB2V1ZoT1QxcFlhREJKYW5Bd1kyNVdiR1pUZDJsaFYwWnFXakU1YkdNeE9XdGlNMUptWTBoS2RscElWbXBrUmpsMVlqSlNiRWxxY0RkSmJVNXVVVE5XZVdNeU9YbEphbTlwV2xoc1MyRnNiM2hQV0ZaYVZucEdjMU5YY0haaFZuQlpWRmhTWVZKNmEzZFVSbWhEWlZkSmVWVnFSbHBOTVVad1ZFVk9TMkZzYjNoUFZFcGhWMFZ3TmxsV1l6VmtWV3h4WWpKc1RtVlZiSHBUVnpGUFlteG5lbFJxUWtwaGJUaDVWR3RPTTJGV2EzbGFSMXBhVFRGYU5WbDZTVFZsVld4eFlqSnNZVmRIZUV4Wk1HUkxaRlpXZEdWSGJHbGlSWEIwVmpGamQwNVhVblJVV0hCV1ZqSjRVVmxzV25kaU1XeHlZVVU1YVZKWWFFVlZNalYzV1ZaWmQxZHFWbGhXUlhCMlYyMHhSMWRGTlZoWGJYUlRUVzVvZWxkVVNuTlRhelZ5VFZWU2EwMXRlSEZVVkVaSFkwWlJlV05HY0U1U01YQlRWVVpSZDJGWFdsSlFWREJwVEVOS2IxbFlUazlhV0dnd1NXcHdNR051Vm14bVdERTVJaXdpYUdGelgyNWxlSFJmYjJ4a1gyTmhkR0ZzYjJkZllXUmZabTl5WDNCaFoyVWlPbVpoYkhObExDSm9ZWE5mYm1WNGRGOXVaWGRmWTJGMFlXeHZaMTloWkY5bWIzSmZjR0ZuWlNJNlptRnNjMlVzSW1oaGMxOXVaWGgwWDIxaGJHeGZZMkYwWVd4dloxOWhaRjltYjNKZmNHRm5aU0k2Wm1Gc2MyVXNJbWhoYzE5dVpYaDBYMmR2YkdSZlkyRjBZV3h2WjE5aFpGOW1iM0pmY0dGblpTSTZabUZzYzJVc0ltbHpYMlpoYkd4aVlXTnJYM1J2WDNGM1pYTjBJanBtWVd4elpYMD0iLCJsYXN0X2FkX3Nsb3QiOjE3LCJoYXNfbmV4dF9hZF9zbG90Ijp0cnVlLCJoYXNfbmV4dF9hZF9jYXRhbG9nIjp0cnVlLCJzbG90X2NvbmZpZ192YXJfaWQiOm51bGwsImlzX3Nsb3RfY29uZmlnX2VuYWJsZWQiOmZhbHNlLCJ1c2VyX2NvaG9ydCI6bnVsbCwiY3RfcWN0X2N1cnNvciI6bnVsbCwiY3RfcWN0X3NlYXJjaF9pZCI6bnVsbCwiaGFzX25leHRfY3RfY2F0YWxvZyI6ZmFsc2UsInZpZXdfdGVtcGxhdGVfaWQiOjEsIm5vcm1hbGlzZWRfcXVlcnkiOiJtYWtldXAiLCJvcmlnaW5hbF9ub3JtYWxpc2VkX3F1ZXJ5IjoibWFrZXVwIiwic2Zfcm91dGVfdHlwZSI6ImZhIiwic2ZfZmVlZF90eXBlIjoidGV4dF9zZWFyY2giLCJzZl9zZWFyY2hfaWQiOiJRUzoxOjgzYzcxN2ZhLTFmOWEtNDMyNi1iMWJiLTZjZDUyYjFmZTIzZiJ9",
+    "search_session_id": "ctx_1_uid_a40aa37b-f18a-4d41-85d1-f370f197bea3_txt_-1_t_1743067803301",
+    "search_id": "QS:1:83c717fa-1f9a-4326-b1bb-6cd52b1fe23f",
+    "corrected_search_term": "makeup",
+    "tracking": {},
+    "disable_filters": false,
+    "view_template_id": 1
+}
